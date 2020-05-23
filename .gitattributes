@@ -1,0 +1,6 @@
+SharedPCH.Core.h.pch filter=lfs diff=lfs merge=lfs -text
+LEVEL_Maison_Close_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+LEVEL_Maison_Close_BuiltData_2020-05-23-17-34-45.uasset filter=lfs diff=lfs merge=lfs -text
+LEVEL_Maison_Close_BuiltData_2020-05-23-19-33-59.uasset filter=lfs diff=lfs merge=lfs -text
+Unveil_UE4_Project.pdb filter=lfs diff=lfs merge=lfs -text
+Unveil_UE4_Project.exe filter=lfs diff=lfs merge=lfs -text
