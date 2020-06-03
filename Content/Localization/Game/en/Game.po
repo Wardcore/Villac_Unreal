@@ -1,0 +1,3123 @@
+﻿# Game English translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2020-06-03 13:18\n"
+"PO-Revision-Date: 2020-06-03 13:18\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	0026C63748452BE07C5E49AAF5AB70A0
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_6.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_6.Text
+msgctxt ",0026C63748452BE07C5E49AAF5AB70A0"
+msgid "Activité :"
+msgstr "Activity:"
+
+#. Key:	006ADB0A4ACCBC539C9C57A4F8B6FF00
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_bruises_wound.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_bruises_wound.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",006ADB0A4ACCBC539C9C57A4F8B6FF00"
+msgid "a été torturée puis"
+msgstr ""
+
+#. Key:	0087CA0D4A924859FA1F60BB43345175
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Size
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Size
+msgctxt ",0087CA0D4A924859FA1F60BB43345175"
+msgid "1m70"
+msgstr "5.5 ft"
+
+#. Key:	01C90517451469929B0269A4BC23EC32
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_7.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_7.Text
+msgctxt ",01C90517451469929B0269A4BC23EC32"
+msgid "Comment découvrir les mystères d'un cadavre en 4 parties"
+msgstr "How to: Uncover the mysteries of a corpse in 4 steps"
+
+#. Key:	01C9A3B84DEE7F08D764A084702D427F
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_Pince.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_Pince.Name
+msgctxt ",01C9A3B84DEE7F08D764A084702D427F"
+msgid "Forceps"
+msgstr "Forceps"
+
+#. Key:	023379E841FD5C3C60DA8EB545A81333
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_pass.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_pass.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",023379E841FD5C3C60DA8EB545A81333"
+msgid "possède une carte de membre correspondant à"
+msgstr ""
+
+#. Key:	03CC1BA64C4B7E61C4CCE0A25011F4AA
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Adress
+msgctxt ",03CC1BA64C4B7E61C4CCE0A25011F4AA"
+msgid "5 rue du Val"
+msgstr "5,  road of the Val"
+
+#. Key:	04023AAC4633D719A7CD3DA74A7397A3
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_74.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_74.Text
+msgctxt ",04023AAC4633D719A7CD3DA74A7397A3"
+msgid "40 route de la Victoire, IIIeme Arrondissement, Villac"
+msgstr "40, Victory road, 3rd district, Villac"
+
+#. Key:	0427C6A247EF23FFF714F68EB3FF90DD
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_brothel.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_brothel.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",0427C6A247EF23FFF714F68EB3FF90DD"
+msgid "L'Orchidée Noire"
+msgstr "Orchidée Noire"
+
+#. Key:	04AFDDCC47927A520A9F449934A054D3
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Head.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Head.Text
+msgctxt ",04AFDDCC47927A520A9F449934A054D3"
+msgid "Plaie n°1 (echardes)"
+msgstr "Wound n°1 (Splinters)"
+
+#. Key:	04ECFABA43D32038C1EC009BE6D8491F
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Gender
+msgctxt ",04ECFABA43D32038C1EC009BE6D8491F"
+msgid "Homme"
+msgstr "Male"
+
+#. Key:	0542954A40B540A5372CEB8160D708B3
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_screen.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_screen.Name
+msgctxt ",0542954A40B540A5372CEB8160D708B3"
+msgid "Screen"
+msgstr "Screen"
+
+#. Key:	05EDB27047FC239D38965FA05F8D6B7A
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Voices.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Voices.Text
+msgctxt ",05EDB27047FC239D38965FA05F8D6B7A"
+msgid "Voix"
+msgstr "Voices"
+
+#. Key:	0651503A47F628453D4E84BFEBA88ABD
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_personnal_effect.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_personnal_effect.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",0651503A47F628453D4E84BFEBA88ABD"
+msgid "Effets personnels"
+msgstr "Personal effects"
+
+#. Key:	06CC46B04041AE1B07190E8E71ABA608
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_loupe.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_loupe.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",06CC46B04041AE1B07190E8E71ABA608"
+msgid "Permet d'obtenir une image agrandie. Un outil indispensable."
+msgstr ""
+
+#. Key:	08D21A7A40E1F0FF7A4F5299C73249A0
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_20.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_20.Text
+msgctxt ",08D21A7A40E1F0FF7A4F5299C73249A0"
+msgid "Liens et tableau d'indices"
+msgstr ""
+
+#. Key:	091EBF7B433A6A8718F64197FA50F30C
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(2).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(2).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",091EBF7B433A6A8718F64197FA50F30C"
+msgid "La victime a subit une autopsie préliminaire. Je dois finir le travail. (Vous pouvez maintenant accéder à la Morgue depuis la note placée dans le bureau)"
+msgstr ""
+
+#. Key:	0A31BFA94E9A818DD54B889FFABC782F
+#. SourceLocation:	/Game/FirstPerson/Unveil_globalLibrary.Unveil_globalLibrary_C:UnlockNotebook [Script Bytecode]
+#: /Game/FirstPerson/Unveil_globalLibrary.Unveil_globalLibrary_C:UnlockNotebook [Script Bytecode]
+msgctxt ",0A31BFA94E9A818DD54B889FFABC782F"
+msgid "Carnet débloqué (tab pour ouvrir)"
+msgstr "Notebook Unlocked (tab to open)"
+
+#. Key:	0A4A50AD4EDD44D179E66F9CCC8D0B3C
+#. SourceLocation:	/Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_8.Text
+#: /Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_8.Text
+msgctxt ",0A4A50AD4EDD44D179E66F9CCC8D0B3C"
+msgid "Molette : Zoom / Dézoom"
+msgstr "Scrollwheel: Zoom"
+
+#. Key:	0A7ED4764D0426E18DBA27A6CB42777E
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_tied_up.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_tied_up.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",0A7ED4764D0426E18DBA27A6CB42777E"
+msgid "la victime a des traces de liens aux niveaux des poignets et des chevilles. "
+msgstr ""
+
+#. Key:	0A9AA58741D294F1DB8CF383AF24C25C
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_1.Text
+msgctxt ",0A9AA58741D294F1DB8CF383AF24C25C"
+msgid "Autopsie incomplète !"
+msgstr "Autopsy incomplete"
+
+#. Key:	0B69FEC34902D977B52CB89B01A0EDF0
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_2.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_2.Text
+msgctxt ",0B69FEC34902D977B52CB89B01A0EDF0"
+msgid "Tab : Ouvrir le carnet"
+msgstr "Tab: Open Notebook"
+
+#. Key:	0B6C1168455C7ED563347B84BC78EE33
+#. SourceLocation:	/Game/FirstPerson/FirstPerson_Blueprints/Language.Language.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/FirstPerson/FirstPerson_Blueprints/Language.Language.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",0B6C1168455C7ED563347B84BC78EE33"
+msgid "English"
+msgstr "English"
+
+#. Key:	0C2258BD4B97FFC4129C8C831AC2632C
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Display_Question_C_0.Line Question Alternative
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Display_Question_C_0.Line Question Alternative
+msgctxt ",0C2258BD4B97FFC4129C8C831AC2632C"
+msgid "Si vous voulez bien m’éclairer sur quelques points :"
+msgstr ""
+
+#. Key:	0C5C65BC4EF4BB189519999535EC301D
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Effects.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Effects.Text
+msgctxt ",0C5C65BC4EF4BB189519999535EC301D"
+msgid "Effets sonores"
+msgstr "Sound Effects"
+
+#. Key:	0C63FE914649A23F0BEA01BEB2E0B851
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_7.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_7.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",0C63FE914649A23F0BEA01BEB2E0B851"
+msgid "correspondant à l’adresse 75, avenue de Provence"
+msgstr ""
+
+#. Key:	0C695DD84419C29423040FABB33DBA25
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Birth
+msgctxt ",0C695DD84419C29423040FABB33DBA25"
+msgid "8 Juin 1864 à Villac"
+msgstr "June 8th 1864, Villac"
+
+#. Key:	0C8EA79D4D97C408CA6948BE5B524357
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_43.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_43.Text
+msgctxt ",0C8EA79D4D97C408CA6948BE5B524357"
+msgid "Les affaires de la victime ?"
+msgstr ""
+
+#. Key:	0CA2B12641913140B1838A97A67B9D26
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_prints.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_prints.Text
+msgctxt ",0CA2B12641913140B1838A97A67B9D26"
+msgid "Résultat de l'analyse d'empreintes"
+msgstr "Fingerprint analysis"
+
+#. Key:	0D99307447810F6FF279249E28042F58
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_bedroom.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_bedroom.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",0D99307447810F6FF279249E28042F58"
+msgid "Chambre Suspecte"
+msgstr "Suspect bedroom"
+
+#. Key:	0DE0CF064FD008D994697D963A2F4FD3
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_2.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_2.Text
+msgctxt ",0DE0CF064FD008D994697D963A2F4FD3"
+msgid "Crédits"
+msgstr "Credits"
+
+#. Key:	0E69306B4B9063C7C8874D9CAD63E3D5
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_4.Text
+msgctxt ",0E69306B4B9063C7C8874D9CAD63E3D5"
+msgid "Environment Art"
+msgstr "Environment Art"
+
+#. Key:	0E9402AB443CF1972F51BBBCA8B4127E
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_8.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_8.Text
+msgctxt ",0E9402AB443CF1972F51BBBCA8B4127E"
+msgid "Musique"
+msgstr "Music"
+
+#. Key:	0EB9316446AC4F90C657009391FEC032
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Size
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Size
+msgctxt ",0EB9316446AC4F90C657009391FEC032"
+msgid "1m62"
+msgstr "5.3 ft"
+
+#. Key:	0FF89BAB4115DA3EE7062EAEAC11C0C7
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(5).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(5).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",0FF89BAB4115DA3EE7062EAEAC11C0C7"
+msgid "[quitter] Je n’ai pas d’autres questions pour le moment.."
+msgstr ""
+
+#. Key:	109FE0664DCE8C469CC9978690874F50
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_francois.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_francois.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",109FE0664DCE8C469CC9978690874F50"
+msgid "La victime, Francois Dulys,"
+msgstr ""
+
+#. Key:	10A16CB54E0C33994A0BF4BE8D3B3799
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Notes.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Notes.Text
+msgctxt ",10A16CB54E0C33994A0BF4BE8D3B3799"
+msgid "Déroulement et objectifs"
+msgstr "Progress & objectives"
+
+#. Key:	110E40B94EF0EDCAA58A7386453F9A3D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Description
+msgctxt ",110E40B94EF0EDCAA58A7386453F9A3D"
+msgid "Un jeune inspecteur très (trop) serviable et un peu collant. Toujours à me poser des questions sur mon travail ou mon passé. Cette admiration peut paraître flatteuse mais je trouve cela gênant et non-professionel. Qu’il s’occupe donc plus de résoudre ses enquêtes plutôt que me demander l’avancée des miennes."
+msgstr ""
+
+#. Key:	11734EE344B5EF4A18B13099E4F5330D
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_1.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_1.Text
+msgctxt ",11734EE344B5EF4A18B13099E4F5330D"
+msgid "Clic droit + bouger : bouger la caméra"
+msgstr "Right click + move: Turn camera"
+
+#. Key:	1188ECE44280A3F8AFA0B2A2A95D91F4
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol.Text
+msgctxt ",1188ECE44280A3F8AFA0B2A2A95D91F4"
+msgid "Clic gauche (rester appuyer) : Analyser"
+msgstr "Left click [hold]: Analyse"
+
+#. Key:	12E4F1C34AC92C6F76A690BF41CB9F79
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",12E4F1C34AC92C6F76A690BF41CB9F79"
+msgid "au bureau"
+msgstr "to the office"
+
+#. Key:	13748D8F4B67C783E896BFA568932727
+#. SourceLocation:	/Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_7.Text
+#: /Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_7.Text
+msgctxt ",13748D8F4B67C783E896BFA568932727"
+msgid "Echap / R : Quitter"
+msgstr "Esc / R: Quit"
+
+#. Key:	13DE7041426BD1142268BDABC4E995F9
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_77.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_77.Text
+msgctxt ",13DE7041426BD1142268BDABC4E995F9"
+msgid "Général"
+msgstr "Game"
+
+#. Key:	145FB3B1432D3EA10633C697782F1706
+#. SourceLocation:	/Game/Features/Menu/Main_Menu.Main_Menu_C:WidgetTree.Menu_Button_opt.ButtonText
+#: /Game/Features/Menu/Main_Menu.Main_Menu_C:WidgetTree.Menu_Button_opt.ButtonText
+msgctxt ",145FB3B1432D3EA10633C697782F1706"
+msgid "Options"
+msgstr "Settings"
+
+#. Key:	14DC5FB94CFEA63A22DB9593C30C5B6A
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_ruler.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_ruler.Name
+msgctxt ",14DC5FB94CFEA63A22DB9593C30C5B6A"
+msgid "Ruler"
+msgstr "measurer"
+
+#. Key:	1524E7104F2D1C733F9A01839ACFFC22
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_10.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_10.Text
+msgctxt ",1524E7104F2D1C733F9A01839ACFFC22"
+msgid "Souris :"
+msgstr "Mouse:"
+
+#. Key:	15DC36784BD9680BABF0DEBB6BA4CB35
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Office.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Office.ButtonText
+msgctxt ",15DC36784BD9680BABF0DEBB6BA4CB35"
+msgid "Le Bureau"
+msgstr ""
+
+#. Key:	15FE01924CF8D601CC173A8A0F778E3E
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_1.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_1.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",15FE01924CF8D601CC173A8A0F778E3E"
+msgid "14, Rue Joseph Vernet"
+msgstr "14, Joseph Vernet street"
+
+#. Key:	16D2BB09428263D5A89C8192A85952EC
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Gender
+msgctxt ",16D2BB09428263D5A89C8192A85952EC"
+msgid "Femme"
+msgstr "Female"
+
+#. Key:	17630BB84189C370B54D8FA699F4F749
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Pass/Clue_obj_mov_Pass.Clue_obj_mov_Pass_C:Detail1_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/Pass/Clue_obj_mov_Pass.Clue_obj_mov_Pass_C:Detail1_GEN_VARIABLE.NameDetail
+msgctxt ",17630BB84189C370B54D8FA699F4F749"
+msgid "L'Orchidée Noire..."
+msgstr "Orchidée Noire..."
+
+#. Key:	17A8A7D34B79412E620250B0805DFBAF
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_morgue.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_morgue.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",17A8A7D34B79412E620250B0805DFBAF"
+msgid "Morgue"
+msgstr ""
+
+#. Key:	17B5666C4B9295FDF1A2479D7E292094
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Gender
+msgctxt ",17B5666C4B9295FDF1A2479D7E292094"
+msgid "Homme"
+msgstr "Male"
+
+#. Key:	189671A74CB696A22199A0B8EC0ACF7A
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_35.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_35.Text
+msgctxt ",189671A74CB696A22199A0B8EC0ACF7A"
+msgid "      - Bougez l'objet avec la souris et cliquez sur les détails et textes pour récupérer des indices."
+msgstr "      - Move the object whit the mouse & click on the details & texts to gather clues"
+
+#. Key:	19AFA4664BA7B94FF07673A2FC5588B7
+#. SourceLocation:	/Game/Features/Notebook/Notebook_Object.Notebook_Object_C:ExecuteUbergraph_Notebook_Object [Script Bytecode]
+#: /Game/Features/Notebook/Notebook_Object.Notebook_Object_C:ExecuteUbergraph_Notebook_Object [Script Bytecode]
+msgctxt ",19AFA4664BA7B94FF07673A2FC5588B7"
+msgid "(Observer) "
+msgstr "(examine)"
+
+#. Key:	1A591E774BEDD780DD71728C5F9449CB
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Description
+msgctxt ",1A591E774BEDD780DD71728C5F9449CB"
+msgid "Ce gamin va pas avoir une vie facile. Seul avec sa mère et devant supporter les articles sur l’infidélité de son père… Difficile d’avoir une vie tranquille après ça. Il va falloir vite résoudre cette affaire pour ne pas que cette famille vraisemblablement innocente n’en pâtisse outre mesure."
+msgstr ""
+
+#. Key:	1B894BBF49653116B692FD8FB7357BFC
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail5_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail5_GEN_VARIABLE.NameDetail
+msgctxt ",1B894BBF49653116B692FD8FB7357BFC"
+msgid "40, route de la victoire"
+msgstr "40, Victory road"
+
+#. Key:	1BC9F47A497EA4675356B8AB162E09CD
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_2.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_2.Text
+msgctxt ",1BC9F47A497EA4675356B8AB162E09CD"
+msgid "Jardin de la Reine"
+msgstr "Queen's garden"
+
+#. Key:	1BEC6BB744EC47056B353A9CC7BEC7D0
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Faction
+msgctxt ",1BEC6BB744EC47056B353A9CC7BEC7D0"
+msgid "Congrégation Royaliste"
+msgstr "Royalist congregation"
+
+#. Key:	1C667547469AA69F4A8ED49359BA56CA
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+msgctxt ",1C667547469AA69F4A8ED49359BA56CA"
+msgid "Note"
+msgstr ""
+
+#. Key:	1C6CD57D4976EB85948B47B4FAF19346
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_45.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_45.Text
+msgctxt ",1C6CD57D4976EB85948B47B4FAF19346"
+msgid "L'heure de la mort ?"
+msgstr ""
+
+#. Key:	1CF81A1F4E1E6FF296CBD2B3246D55B0
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_44.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_44.Text
+msgctxt ",1CF81A1F4E1E6FF296CBD2B3246D55B0"
+msgid "Le résultat de l'autopsie ?"
+msgstr ""
+
+#. Key:	1D25706F416406BFE18545B64988719A
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tetine.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tetine.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",1D25706F416406BFE18545B64988719A"
+msgid "Objet étrange permettant d'analyser les empreintes d'une personne."
+msgstr ""
+
+#. Key:	1E6489B84B999DB693F091B50F8C0D27
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(1).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(1).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",1E6489B84B999DB693F091B50F8C0D27"
+msgid "La Famille Dulys au complet."
+msgstr ""
+
+#. Key:	1FB04AB94F2E3471838D818FE7B3BB0C
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_ruler.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_ruler.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",1FB04AB94F2E3471838D818FE7B3BB0C"
+msgid "Compas permettant de mesurer toute sorte de chose. L'unité de mesure est en centimètres."
+msgstr ""
+
+#. Key:	2044F2664E546B512C50B19AB0FA5459
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:ExecuteUbergraph_Widget_Map [Script Bytecode]
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:ExecuteUbergraph_Widget_Map [Script Bytecode]
+msgctxt ",2044F2664E546B512C50B19AB0FA5459"
+msgid "...correspondant à l’adresse "
+msgstr "...corresponding to the adress"
+
+#. Key:	20C209A2403531FC4BC44485FB75613F
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_2.Text
+#: /Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_2.Text
+msgctxt ",20C209A2403531FC4BC44485FB75613F"
+msgid "Si tu as un trou de mémoire pour l'autopsie, n'oublies pas les notes qu'on a écrites ensemble dans ton bouquin."
+msgstr ""
+
+#. Key:	214D859147EC3E06933F848FC12D9349
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt6.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt6.NewTextRenderComponent.Text
+msgctxt ",214D859147EC3E06933F848FC12D9349"
+msgid "Partie de Poker"
+msgstr ""
+
+#. Key:	2250DBFD428EAE7B910B85A26EC1C74B
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_3.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_3.Text
+msgctxt ",2250DBFD428EAE7B910B85A26EC1C74B"
+msgid "Programmation"
+msgstr "Game Scripting"
+
+#. Key:	23852B3146910C723B020AB992C704F0
+#. SourceLocation:	/Game/FirstPerson/FirstPerson_Blueprints/Language.Language.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/FirstPerson/FirstPerson_Blueprints/Language.Language.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",23852B3146910C723B020AB992C704F0"
+msgid "Français"
+msgstr "Français"
+
+#. Key:	238B968E4CE3BDC1C394CDB19C9802B3
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_2.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_2.Text
+msgctxt ",238B968E4CE3BDC1C394CDB19C9802B3"
+msgid "Interagir"
+msgstr "Interact"
+
+#. Key:	24E5F536446E4128C7D9BBAB800FF774
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock.Text
+msgctxt ",24E5F536446E4128C7D9BBAB800FF774"
+msgid "Villac"
+msgstr ""
+
+#. Key:	260015BC4A761FEFD6C222AD1E159073
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Activity
+msgctxt ",260015BC4A761FEFD6C222AD1E159073"
+msgid "Tenancière de l'Orchidée Noire"
+msgstr ""
+
+#. Key:	269E5700481A34747170EEB4DAC734A1
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_drug_canister.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_drug_canister.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",269E5700481A34747170EEB4DAC734A1"
+msgid "Canette remplie de drogue"
+msgstr "Canister full of drugs"
+
+#. Key:	26C8EE8146C1B11C77DB5B888D9EBA3F
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_death.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_death.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",26C8EE8146C1B11C77DB5B888D9EBA3F"
+msgid "est morte au alentours de 23h"
+msgstr ""
+
+#. Key:	2851B4FE4061BE07A7E132AE49EFA277
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Activity
+msgctxt ",2851B4FE4061BE07A7E132AE49EFA277"
+msgid "Inspecteur de police"
+msgstr "Police detective"
+
+#. Key:	2922962841ED46CC5683D5963496B79E
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_6.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_6.Text
+msgctxt ",2922962841ED46CC5683D5963496B79E"
+msgid "Lighting, Level & Tech Art"
+msgstr "Lighting, Level & Tech Art"
+
+#. Key:	2A0E6F7F46EE5505AAE8DFA0FCDE1C58
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(1).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(1).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",2A0E6F7F46EE5505AAE8DFA0FCDE1C58"
+msgid "Où étiez-vous entre 23h et 23h30 ?"
+msgstr ""
+
+#. Key:	2A75527B478D520479A6D48010F5E869
+#. SourceLocation:	/Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_1.Text
+#: /Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_1.Text
+msgctxt ",2A75527B478D520479A6D48010F5E869"
+msgid "Clic Gauche : découvrir un détail / enregistrer un indice"
+msgstr "Left click: Uncover a detail / Save a clue"
+
+#. Key:	2B733A704C8AA71F347C99BACF20E149
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_7.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_7.Text
+msgctxt ",2B733A704C8AA71F347C99BACF20E149"
+msgid "Espace : "
+msgstr "Space:"
+
+#. Key:	2BB4DD44444322F0E6F282AC4846514F
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_1.Text
+msgctxt ",2BB4DD44444322F0E6F282AC4846514F"
+msgid "Contrôles"
+msgstr "Inputs"
+
+#. Key:	2D10427E405836DF7088D5A1CB7ED4E3
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(0).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(0).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",2D10427E405836DF7088D5A1CB7ED4E3"
+msgid "François Dulys a été retrouvé mort place de l'Union à 5h."
+msgstr "François Dulys was found dead in Union place around 5am."
+
+#. Key:	2E25FD2645D0E89ABFBCFCA32864EF04
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_commissaire.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_commissaire.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",2E25FD2645D0E89ABFBCFCA32864EF04"
+msgid "le Commissaire de police"
+msgstr ""
+
+#. Key:	2E4D3629405D07876A052398F88CD802
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_89.Text
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_89.Text
+msgctxt ",2E4D3629405D07876A052398F88CD802"
+msgid "ClueCategory"
+msgstr "ClueCategory"
+
+#. Key:	2F1D0B25490055E792B28CAF0272BD98
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Constance.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Constance.ButtonText
+msgctxt ",2F1D0B25490055E792B28CAF0272BD98"
+msgid "Constance DULYS"
+msgstr "Constance DULYS"
+
+#. Key:	301A89C94505FECB94B4C682E450A521
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_28.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_28.Text
+msgctxt ",301A89C94505FECB94B4C682E450A521"
+msgid "Partie 4 : Plaies et blessures"
+msgstr ""
+
+#. Key:	309163CE485A9FA72FF331891DA0BDFC
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Tied.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Tied.Text
+msgctxt ",309163CE485A9FA72FF331891DA0BDFC"
+msgid "Marques n°1"
+msgstr "Marks n°1"
+
+#. Key:	32A196CA4078D3054EC226BEF395C4A5
+#. SourceLocation:	/Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_Blood_GEN_VARIABLE.Description
+#: /Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_Blood_GEN_VARIABLE.Description
+msgctxt ",32A196CA4078D3054EC226BEF395C4A5"
+msgid "Empoisonnement à base d’orchidée noire. Non létale mais ça a dû bien le sonner."
+msgstr "Poisoned with black orchid. Non-lethal but it must have knocked him out"
+
+#. Key:	332DCB3C422AF3495F27CF9F3C486B8B
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_28.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_28.Text
+msgctxt ",332DCB3C422AF3495F27CF9F3C486B8B"
+msgid "Producer"
+msgstr "Producer"
+
+#. Key:	347A390F4F370B0BF58F8A8DEDD7743E
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_302.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_302.Text
+msgctxt ",347A390F4F370B0BF58F8A8DEDD7743E"
+msgid "Nom"
+msgstr ""
+
+#. Key:	34E5632242C5C5E6E03C9FBA96BD06F5
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_needle.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_needle.Name
+msgctxt ",34E5632242C5C5E6E03C9FBA96BD06F5"
+msgid "Needle"
+msgstr "Needle"
+
+#. Key:	351DF9854F265511A3B624BA115F6C7F
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_9.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_9.Text
+msgctxt ",351DF9854F265511A3B624BA115F6C7F"
+msgid "Molette : Zoom / Dézoom"
+msgstr "Scrollwheel: Zoom"
+
+#. Key:	35402A9B495CAE7F39EC689438B908CB
+#. SourceLocation:	/Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.Menu_Button_quit.ButtonText
+#: /Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.Menu_Button_quit.ButtonText
+msgctxt ",35402A9B495CAE7F39EC689438B908CB"
+msgid "Quitter"
+msgstr "Quit"
+
+#. Key:	35B2E033491D9F9E712779A449475737
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_3.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_3.Text
+msgctxt ",35B2E033491D9F9E712779A449475737"
+msgid "Comment découvrir les mystères d'un cadavre en 4 parties"
+msgstr "How to: Uncover the mysteries of a corpse in 4 steps"
+
+#. Key:	35CB10EA410E308D43A533B6D38A876B
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_preliminary.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_preliminary.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",35CB10EA410E308D43A533B6D38A876B"
+msgid "La victime à subi une autopsie préliminaire"
+msgstr ""
+
+#. Key:	36AA9F12445F618E756B81BD91479565
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_6.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_6.Text
+msgctxt ",36AA9F12445F618E756B81BD91479565"
+msgid "Inspecteur Léon Maximilien"
+msgstr "Detective Leon Maximilien"
+
+#. Key:	36D042AF42E5AFF921CE65AE0A59C655
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_pass.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_pass.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",36D042AF42E5AFF921CE65AE0A59C655"
+msgid "Cette carte ne semble être donnée qu'aux membres importants de l'établissement. c'est là que je devrais continuer mon enquête. (6, rue du Pont Neuf)"
+msgstr ""
+
+#. Key:	388820B74A9CB8452BB7BB84FC09FB4D
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_trocart.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_trocart.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",388820B74A9CB8452BB7BB84FC09FB4D"
+msgid "Aiguille"
+msgstr "Needle"
+
+#. Key:	3925F2BE4EAEFA8F7CB09DAF20893018
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Adress
+msgctxt ",3925F2BE4EAEFA8F7CB09DAF20893018"
+msgid "13 Boulevard de l’Assemblée"
+msgstr "13 Assemblée's boulevard"
+
+#. Key:	39B373BD415D755D3202738906886842
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_hat.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_hat.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",39B373BD415D755D3202738906886842"
+msgid "Le chapeau ayant appartenu à François Dulys"
+msgstr ""
+
+#. Key:	3A0D722242BD4854D2570EBE0BC20126
+#. SourceLocation:	/Game/Features/Menu/Main_Menu.Main_Menu_C:WidgetTree.Menu_Button_quit.ButtonText
+#: /Game/Features/Menu/Main_Menu.Main_Menu_C:WidgetTree.Menu_Button_quit.ButtonText
+msgctxt ",3A0D722242BD4854D2570EBE0BC20126"
+msgid "Quitter"
+msgstr "Quit"
+
+#. Key:	3A2BB4304CA182D33EB1AB9977D47EA8
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_91.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_91.Text
+msgctxt ",3A2BB4304CA182D33EB1AB9977D47EA8"
+msgid "Options"
+msgstr "Settings"
+
+#. Key:	3B46820E48D353626B81DA9FAA53AF78
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_40.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_40.Text
+msgctxt ",3B46820E48D353626B81DA9FAA53AF78"
+msgid "      - Utilisez un indice de votre Liste lors d'un dialogue pour amener votre interlocuteur à vous dire la vérité."
+msgstr "      - use a clue from the list during an interrogation to bring your interlocutor to tell you the truth."
+
+#. Key:	3D171B1543CAE31BC76C2B8B0C1CFBF7
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_1.Text
+msgctxt ",3D171B1543CAE31BC76C2B8B0C1CFBF7"
+msgid "Le Bureau de l'inspecteur"
+msgstr ""
+
+#. Key:	3D5FCC3048CAD3121DEB789F51E5C6E7
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Activity
+msgctxt ",3D5FCC3048CAD3121DEB789F51E5C6E7"
+msgid "Aucune"
+msgstr "none"
+
+#. Key:	3DB8D932400F737F7BFB2C80906EDDBD
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_382.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_382.Text
+msgctxt ",3DB8D932400F737F7BFB2C80906EDDBD"
+msgid "Langue"
+msgstr "Language"
+
+#. Key:	3DC0D62444EA8DCDCE672093F82C2794
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_pince.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_pince.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",3DC0D62444EA8DCDCE672093F82C2794"
+msgid "Une pince permettant de récolter des petits éléments. "
+msgstr ""
+
+#. Key:	3E44E9B143897CB3F2EFA28A3B1B86BF
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Name
+msgctxt ",3E44E9B143897CB3F2EFA28A3B1B86BF"
+msgid "Léon MAXIMILIEN"
+msgstr ""
+
+#. Key:	4063F29D414868FA75BE6696BD58215D
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_15.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_15.Text
+msgctxt ",4063F29D414868FA75BE6696BD58215D"
+msgid "Zoom contextuel"
+msgstr "Context-sensitive Zoom"
+
+#. Key:	424D3E904B3B1A7564B6B58CB8C897D1
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail2_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail2_GEN_VARIABLE.NameDetail
+msgctxt ",424D3E904B3B1A7564B6B58CB8C897D1"
+msgid "Description de l'évènement"
+msgstr "Descripton of the event"
+
+#. Key:	433CF9CF4D3FB56B8D686C9EC05842C9
+#. SourceLocation:	/Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_torso_GEN_VARIABLE.Description
+#: /Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_torso_GEN_VARIABLE.Description
+msgctxt ",433CF9CF4D3FB56B8D686C9EC05842C9"
+msgid "La blessure fatale. Arme Blanche, 18 cm."
+msgstr "Fatal wound. Stabbed, 7 inches."
+
+#. Key:	437158D346B5CEEAD38DEABA92EEA474
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_12.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_12.Text
+msgctxt ",437158D346B5CEEAD38DEABA92EEA474"
+msgid "(NOTE) : changer le tissu de l'embout"
+msgstr ""
+
+#. Key:	43E396ED4638AFFA70B25FA60D8480EE
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_86.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_86.Text
+msgctxt ",43E396ED4638AFFA70B25FA60D8480EE"
+msgid "Vous êtes ici"
+msgstr ""
+
+#. Key:	43EF9A8549BFE3B08BB40FB393F6E4B2
+#. SourceLocation:	/Game/Features/Notebook/Notebook_TabButton.Notebook_TabButton_C:WidgetTree.TextBlock_20.Text
+#: /Game/Features/Notebook/Notebook_TabButton.Notebook_TabButton_C:WidgetTree.TextBlock_20.Text
+msgctxt ",43EF9A8549BFE3B08BB40FB393F6E4B2"
+msgid "L'Orchidée Noire"
+msgstr "Orchidée Noire"
+
+#. Key:	4483F8044682BCB2EB3CE2B86E7C8A52
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_32.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_32.Text
+msgctxt ",4483F8044682BCB2EB3CE2B86E7C8A52"
+msgid "(NOTE) : le ressort de la pince se bloque parfois. Penser à l’huiler entre chaque affaire."
+msgstr ""
+
+#. Key:	4487781040F270F229953CB3BCC7BA19
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_bruises_wound.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_bruises_wound.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",4487781040F270F229953CB3BCC7BA19"
+msgid "Ecchymoses"
+msgstr "Bruises"
+
+#. Key:	476A2E7E42D7FCF23B11DE9093209ECB
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Unveil_Object_Movable_Hat_Lys.Unveil_Object_Movable_Hat_Lys_C:Detail_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/Unveil_Object_Movable_Hat_Lys.Unveil_Object_Movable_Hat_Lys_C:Detail_GEN_VARIABLE.NameDetail
+msgctxt ",476A2E7E42D7FCF23B11DE9093209ECB"
+msgid "Un symbole de Lys"
+msgstr ""
+
+#. Key:	4808280F4487AFD88F9DC1A7682B51A5
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Birth
+msgctxt ",4808280F4487AFD88F9DC1A7682B51A5"
+msgid "4 Avril 1858 Bellile-sur-mer"
+msgstr "April 4th 1858, Belile-sur-mer"
+
+#. Key:	4930E1E848DDDD535BA904BB94304AD3
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_4.Text
+msgctxt ",4930E1E848DDDD535BA904BB94304AD3"
+msgid "Genre :"
+msgstr "Gender:"
+
+#. Key:	49BA28F243C205393D88E6904E42A97C
+#. SourceLocation:	/Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_bruises_GEN_VARIABLE.Description
+#: /Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_bruises_GEN_VARIABLE.Description
+msgctxt ",49BA28F243C205393D88E6904E42A97C"
+msgid "Il a été passé à tabac. Quelqu’un voulait des informations. Ou le punir…"
+msgstr "He was beaten. For informations, or for punishment..."
+
+#. Key:	49BE7BFA4632C43B9970258F9BA8C1D3
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Music.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Music.Text
+msgctxt ",49BE7BFA4632C43B9970258F9BA8C1D3"
+msgid "Musique"
+msgstr "Music"
+
+#. Key:	4A26331645E8DD05F1B752906E24F3F0
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_blood.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_blood.Text
+msgctxt ",4A26331645E8DD05F1B752906E24F3F0"
+msgid "Résultat de la prise de sang"
+msgstr "Blood sample analysis"
+
+#. Key:	4A3376464088042E45D928B8E1EF6164
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(1).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(1).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",4A3376464088042E45D928B8E1EF6164"
+msgid "Avez-vous déjà eu des problèmes avec lui ?"
+msgstr "Have you ever had any problem with him ?"
+
+#. Key:	4ABE3FCD4F9B853F5E23709C6E4B3A66
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_17.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_17.Text
+msgctxt ",4ABE3FCD4F9B853F5E23709C6E4B3A66"
+msgid "Partie 3 : Analyse d'empreintes"
+msgstr ""
+
+#. Key:	4B25D1C6468A49B7385B2BA3DA09BF16
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_preliminary.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_preliminary.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",4B25D1C6468A49B7385B2BA3DA09BF16"
+msgid "Autopsie Préliminaire"
+msgstr "Initial autopsy"
+
+#. Key:	4C4725CE43B85EA04549EE83ED598BF4
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Char.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Char.Text
+msgctxt ",4C4725CE43B85EA04549EE83ED598BF4"
+msgid "Suspects & Témoins"
+msgstr ""
+
+#. Key:	4D1005D24812D8F822DF5D99C9B9A8D0
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_4.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_4.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",4D1005D24812D8F822DF5D99C9B9A8D0"
+msgid "correspondant à l’adresse 55, rue Marguerite"
+msgstr ""
+
+#. Key:	4D34A55D49815CB752FBDA9B057EC793
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_2.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_2.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",4D34A55D49815CB752FBDA9B057EC793"
+msgid "14, rue Clement Marot"
+msgstr "14, Clement Marot street"
+
+#. Key:	4E45A8EE418F939121DD5999F1AE2C24
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_5.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_5.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",4E45A8EE418F939121DD5999F1AE2C24"
+msgid "4, rue des lieutenants Thomazo"
+msgstr "4, Lieutenants Thomazo street"
+
+#. Key:	4E553205477C916B68D5E5ADA021085A
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",4E553205477C916B68D5E5ADA021085A"
+msgid "Click gauche [Maintenir]: Retirer le lien"
+msgstr "Left click [hold]: Remove Link"
+
+#. Key:	4EBF7B784DEE2DB6D583A9A5A65C8269
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_pince.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_pince.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",4EBF7B784DEE2DB6D583A9A5A65C8269"
+msgid "Pince"
+msgstr ""
+
+#. Key:	4F5984804851340490FD03A6A78FBE0E
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(5).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(5).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",4F5984804851340490FD03A6A78FBE0E"
+msgid "[quitter] Je n’ai pas d’autres questions pour le moment.."
+msgstr ""
+
+#. Key:	50D31EFF4562D82EA2B342829F4F5C4E
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_suitcase.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_suitcase.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",50D31EFF4562D82EA2B342829F4F5C4E"
+msgid "Malette"
+msgstr ""
+
+#. Key:	51451039463FEC5E7B89278D08AE83F7
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Description
+msgctxt ",51451039463FEC5E7B89278D08AE83F7"
+msgid "Pauvre femme. J’ai pas spécialement d’empathie pour ceux de la haute, mais il faut bien avouer que cette dame n’a pas de chance. Je vais non seulement devoir lui annoncer pour la mort de son mari mais en plus de cela la pauvre femme découvrira bien vite par les journaux les infidélités de celui-ci. ça ne va pas être facile pour elle."
+msgstr ""
+
+#. Key:	516ED4084BC7FADB1CFB6EB6A5CB5CD0
+#. SourceLocation:	/Game/Features/Notebook/Notebook_TabButton.Default__Notebook_TabButton_C.ButtonText
+#: /Game/Features/Notebook/Notebook_TabButton.Default__Notebook_TabButton_C.ButtonText
+msgctxt ",516ED4084BC7FADB1CFB6EB6A5CB5CD0"
+msgid "L'Orchidée Noire"
+msgstr "Orchidée Noire"
+
+#. Key:	516ED7834122FE975CAAA0870CDC279A
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_2.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_2.Text
+msgctxt ",516ED7834122FE975CAAA0870CDC279A"
+msgid "Scénario & Narrative Design"
+msgstr "Writing & Narrative Design"
+
+#. Key:	519753C04C0176DA10C0DDA6425980E9
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock.Text
+msgctxt ",519753C04C0176DA10C0DDA6425980E9"
+msgid "00F1312"
+msgstr "00F1312"
+
+#. Key:	51D3FB514692317C4D6E5CAFCE323B6B
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Name
+msgctxt ",51D3FB514692317C4D6E5CAFCE323B6B"
+msgid "Constance DULYS"
+msgstr "Constance DULYS"
+
+#. Key:	525884F14A0F3046E8CD4AA16C415F7B
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_body_found.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_body_found.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",525884F14A0F3046E8CD4AA16C415F7B"
+msgid "Heure de découverte du corps"
+msgstr "Time the body was discovered"
+
+#. Key:	52C6C0F347513A7030616B8EA9FDFE38
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_tied_up.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_tied_up.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",52C6C0F347513A7030616B8EA9FDFE38"
+msgid "a été attachée puis"
+msgstr ""
+
+#. Key:	53B330D14CACE1891FB7A296738BA971
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(0).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(0).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",53B330D14CACE1891FB7A296738BA971"
+msgid "Était-il bien un de vos clients réguliers ?"
+msgstr ""
+
+#. Key:	542D461D41D38DCDC83E64A4B2DA489B
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_sonde.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_sonde.Name
+msgctxt ",542D461D41D38DCDC83E64A4B2DA489B"
+msgid "Sonde"
+msgstr "Probe"
+
+#. Key:	547776F24D8A7F10BC3153B79628689D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_hovercontrol.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_hovercontrol.Text
+msgctxt ",547776F24D8A7F10BC3153B79628689D"
+msgid "A : Retour sommaire"
+msgstr "A: Go to content table"
+
+#. Key:	55108E6B43488D9A09E108A273BD5035
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_handle.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_handle.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",55108E6B43488D9A09E108A273BD5035"
+msgid "Cette poignée tient bien en main et permet d'utiliser une grande variété de modules."
+msgstr ""
+
+#. Key:	5639B850490E5285DD96EEA20E520A6D
+#. SourceLocation:	/Game/Features/Map/Adress_Widget.Adress_Widget_C:WidgetTree.TextBlock_71.Text
+#: /Game/Features/Map/Adress_Widget.Adress_Widget_C:WidgetTree.TextBlock_71.Text
+msgctxt ",5639B850490E5285DD96EEA20E520A6D"
+msgid "Epingler"
+msgstr "Pin"
+
+#. Key:	56C3825A4BAE907FEAE836A3C0D19D85
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Clue_obj_mov_AllClue.Clue_obj_mov_AllClue_C:TextRender_GEN_VARIABLE.Text
+#: /Game/Features/Analysis/Object_Unique/Clue_obj_mov_AllClue.Clue_obj_mov_AllClue_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",56C3825A4BAE907FEAE836A3C0D19D85"
+msgid "All Clues"
+msgstr "All Clues"
+
+#. Key:	56E48CC54830F990C7E382BB6B56C447
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_21.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_21.Text
+msgctxt ",56E48CC54830F990C7E382BB6B56C447"
+msgid "La carte de Villac"
+msgstr ""
+
+#. Key:	57480B2D400DD5B8F44A68AA99580809
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_1.Text
+msgctxt ",57480B2D400DD5B8F44A68AA99580809"
+msgid "Palais Royal"
+msgstr ""
+
+#. Key:	57AC9EA64D1AEFD84CF82BAA981DE550
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Analysis.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Analysis.Text
+msgctxt ",57AC9EA64D1AEFD84CF82BAA981DE550"
+msgid "L'inspection et analyse d'objet"
+msgstr "Inspection & object analysis"
+
+#. Key:	58161EFF4457C32860F61DA319648DFE
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+msgctxt ",58161EFF4457C32860F61DA319648DFE"
+msgid "Objet"
+msgstr ""
+
+#. Key:	598F74224726F2F23DABE3AA978299EC
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Adress
+msgctxt ",598F74224726F2F23DABE3AA978299EC"
+msgid "4, place de la Liberté"
+msgstr "4, Place of the liberty"
+
+#. Key:	5A2E05F445A75ED253B3E7B90D5D2262
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Pass/Clue_obj_mov_Pass.Clue_obj_mov_Pass_C:Detail_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/Pass/Clue_obj_mov_Pass.Clue_obj_mov_Pass_C:Detail_GEN_VARIABLE.NameDetail
+msgctxt ",5A2E05F445A75ED253B3E7B90D5D2262"
+msgid "6, Rue du pont neuf"
+msgstr "6, Pont Neuf's street"
+
+#. Key:	5C73FE824FDEC1D57DF541B0C7405B24
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_fatal_injury.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_fatal_injury.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",5C73FE824FDEC1D57DF541B0C7405B24"
+msgid "Aux vues de mes observations, j'en ai déduis que cette blessure était la blessure de trop pour la victime. L'arme du crime est une arme blanche, d'une longueur de 18cm"
+msgstr ""
+
+#. Key:	5C90BEC14AEAECC3057B5D93D63F9765
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_drug_blood.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_drug_blood.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",5C90BEC14AEAECC3057B5D93D63F9765"
+msgid "L'Orchidée n'est pas un choix habituel pour fabriquer un poison..."
+msgstr ""
+
+#. Key:	5CD3BE644D953BBC13EEB6999AEECB1B
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_commissaire.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_commissaire.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",5CD3BE644D953BBC13EEB6999AEECB1B"
+msgid "Commissaire Delorbe"
+msgstr "Commissioner Delorbe"
+
+#. Key:	5D515874401DB2EA9B96F098C2D94D80
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_lulu.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_lulu.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",5D515874401DB2EA9B96F098C2D94D80"
+msgid "Lucienne Belrose"
+msgstr ""
+
+#. Key:	5D6F224B4D3807E525E6D2965F27A2E1
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:UpdateClueList [Script Bytecode]
+#: /Game/Features/Notebook/Notebook.Notebook_C:UpdateClueList [Script Bytecode]
+msgctxt ",5D6F224B4D3807E525E6D2965F27A2E1"
+msgid "Aucun indice débloqué"
+msgstr "No clues unlocked"
+
+#. Key:	5D8310BE4EDF3B418B5D748526262B25
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_7.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_7.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",5D8310BE4EDF3B418B5D748526262B25"
+msgid "75, avenue de Provence"
+msgstr "75, provence avenue"
+
+#. Key:	5DA7D5F54CB0DF750BB3BEA0F2071239
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_legiste.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_legiste.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",5DA7D5F54CB0DF750BB3BEA0F2071239"
+msgid "le légiste Maurice Maurin"
+msgstr ""
+
+#. Key:	5DB29B2D43F09A2B804F48BB56B11DF9
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Default__Clue_obj_mov_CaseFile_C.ImportantDetails(0).ImportantDetails
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Default__Clue_obj_mov_CaseFile_C.ImportantDetails(0).ImportantDetails
+msgctxt ",5DB29B2D43F09A2B804F48BB56B11DF9"
+msgid "L'evenement"
+msgstr ""
+
+#. Key:	5DB5851E4DC039AADDB0ABB44BDC0E90
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_sonde.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_sonde.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",5DB5851E4DC039AADDB0ABB44BDC0E90"
+msgid "Permet de dénicher les détails présents dans des endroits peu accessibles."
+msgstr ""
+
+#. Key:	5E718AC44C60F5B3B762489D620E12FB
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_abigaelle.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_abigaelle.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",5E718AC44C60F5B3B762489D620E12FB"
+msgid "Abigaelle Cardot"
+msgstr "Abigaelle Cardot"
+
+#. Key:	5F1F4E0045E7ED6939C6AEADFC86DE61
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_18.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_18.Text
+msgctxt ",5F1F4E0045E7ED6939C6AEADFC86DE61"
+msgid "      Cet outil est une bénédiction pour un inspecteur digne de ce nom. Il ne faut pas oublier de l'entretenir régulièrment et vérifier le fonctionnement des différents modules."
+msgstr "      This tool is a blessing to any renowned detective. Do not forget to maintain it regularly and verify the modules."
+
+#. Key:	5F3A5240497758251CE82BA9D36C3458
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_lulu.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_lulu.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",5F3A5240497758251CE82BA9D36C3458"
+msgid "Lucienne Belrose"
+msgstr ""
+
+#. Key:	5FCBB1B34B81A5DE1EFB97A15349F6CB
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Bruises.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Bruises.Text
+msgctxt ",5FCBB1B34B81A5DE1EFB97A15349F6CB"
+msgid "Marques n°2"
+msgstr "Marks n°2"
+
+#. Key:	60310B7049E4DBFA0DCAD88D9CC344EC
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Faction
+msgctxt ",60310B7049E4DBFA0DCAD88D9CC344EC"
+msgid "L'Orchidée Noire"
+msgstr "Orchidée Noire"
+
+#. Key:	6128A8D14D9A6226B3474EB56D341FBB
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt5.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt5.NewTextRenderComponent.Text
+msgctxt ",6128A8D14D9A6226B3474EB56D341FBB"
+msgid "Les Alcooliques"
+msgstr ""
+
+#. Key:	6128C4FD47002211EAA6A997E977BFCD
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",6128C4FD47002211EAA6A997E977BFCD"
+msgid "J'ai préparé le cadavre et je l'ai laissé à ta disposition. J'ai disposé ses affaires sur la table tu devrais y jeter un oeil."
+msgstr ""
+
+#. Key:	613DF5EF4BFE91239B6B25A559C1822F
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_fatal_injury.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_fatal_injury.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",613DF5EF4BFE91239B6B25A559C1822F"
+msgid "Blessure Fatale"
+msgstr "Fatal wound"
+
+#. Key:	61E787F9422E865F6B90BF91C0C45F7B
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(4).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(4).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",61E787F9422E865F6B90BF91C0C45F7B"
+msgid "[!] Que s’est-il passé dans cette chambre après votre… prestation ?"
+msgstr ""
+
+#. Key:	62C82E82467AC303C1858CBAF6598DAD
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_body_found.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_body_found.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",62C82E82467AC303C1858CBAF6598DAD"
+msgid "Selon le rapport préliminaire, le corps à été retrouvé aux alentours de 5h ce matin."
+msgstr ""
+
+#. Key:	63B0FBE0439835242DCBE7AA9575CDF0
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_5.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_5.Text
+msgctxt ",63B0FBE0439835242DCBE7AA9575CDF0"
+msgid "4 Mai 1832 à Villac"
+msgstr "May 4th 1832, Villac"
+
+#. Key:	63EBC808491B026C3FF763997FC0B0EF
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_11.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_11.Text
+msgctxt ",63EBC808491B026C3FF763997FC0B0EF"
+msgid "(NOTE) : ajouter un chiffon à loupe dans la valise."
+msgstr ""
+
+#. Key:	6497219A4EB5658722B58C81603B003F
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Name
+msgctxt ",6497219A4EB5658722B58C81603B003F"
+msgid "Alain DULYS"
+msgstr "Alain DULYS"
+
+#. Key:	66A2AE9E477C0F2593B7AD90A2BE6C60
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_wood_splinters.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_wood_splinters.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",66A2AE9E477C0F2593B7AD90A2BE6C60"
+msgid "Echardes de bois"
+msgstr "Wood Splinters"
+
+#. Key:	6700F9E64F3AB0DF2883A18353441205
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_wood_splinters.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_wood_splinters.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",6700F9E64F3AB0DF2883A18353441205"
+msgid "il y avait des particules de bois dans la plaie sur le crâne de Mr DULYS. Il a probablement été frappé avec un objet en bois"
+msgstr ""
+
+#. Key:	671F5870424D23B1193E91BF1444E9F8
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_2.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_2.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",671F5870424D23B1193E91BF1444E9F8"
+msgid "correspondant à l’adresse 14, rue Clement Marot"
+msgstr ""
+
+#. Key:	672C89694CA780A25C06309D45A3FEFB
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_241.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_241.Text
+msgctxt ",672C89694CA780A25C06309D45A3FEFB"
+msgid "Aide :"
+msgstr "Help:"
+
+#. Key:	67796FF44DC92D2AC218209E7861D025
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_269.Text
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_269.Text
+msgctxt ",67796FF44DC92D2AC218209E7861D025"
+msgid "Epingler"
+msgstr "Pin"
+
+#. Key:	67D1FF694866A5933EB66B844BD3EA8B
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Adress
+msgctxt ",67D1FF694866A5933EB66B844BD3EA8B"
+msgid "2 Impasse de la Source"
+msgstr "2, Spring's street"
+
+#. Key:	67EEBA1645BCD910E13EDDB3E8D15BDD
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol.Text
+msgctxt ",67EEBA1645BCD910E13EDDB3E8D15BDD"
+msgid "Tab :"
+msgstr "Tab:"
+
+#. Key:	6866630647CA6BF1672F1C9C57BABBA9
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(4).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(4).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",6866630647CA6BF1672F1C9C57BABBA9"
+msgid "Nous avons retrouvé des traces d’une drogue..."
+msgstr ""
+
+#. Key:	68D31A214126CC738505FBA994B8515F
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_14.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_14.Text
+msgctxt ",68D31A214126CC738505FBA994B8515F"
+msgid "Molette Souris :"
+msgstr "Scroll Wheel"
+
+#. Key:	68EDE9AC43DE337C935325AFE8E91C66
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_analyser.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_analyser.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",68EDE9AC43DE337C935325AFE8E91C66"
+msgid "Analyseur"
+msgstr "Analyser"
+
+#. Key:	6CBB57744E0CB0CE8893A9B787D1546B
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_8.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_8.Text
+msgctxt ",6CBB57744E0CB0CE8893A9B787D1546B"
+msgid "Ouvrir / fermer le menu"
+msgstr "Open / Close Pause Menu"
+
+#. Key:	6DDC506F405E3650A178CE87BCCE54F1
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Description
+msgctxt ",6DDC506F405E3650A178CE87BCCE54F1"
+msgid "Probablement l’homme le plus respecté de toute la ville. Son ascension au poste de Commissaire fut plus que fulgurante grâce à son incroyable taux d’arrestation. Mais j’ai jamais pu le blairer. Trop hautain et ne pensant qu’aux grades. Moi ça ne m’intéresse pas et je ne me gêne aucunement pour lui faire comprendre. M’enfin, il a quand même son utilité vu que je suis tout de même obligé de passer par lui pour obtenir mes mandats… Je hais la hiérarchie... "
+msgstr ""
+
+#. Key:	6EE1B3F342B95F5BE4D849A8ACA0FD5C
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_24.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_24.Text
+msgctxt ",6EE1B3F342B95F5BE4D849A8ACA0FD5C"
+msgid "P.S : j’ai adapté ma dernière réalisation à l'analyseur. ça devrait marcher correctement"
+msgstr ""
+
+#. Key:	6F5BE0E241166909BC05F5AC8D3D61B4
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(2).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(2).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",6F5BE0E241166909BC05F5AC8D3D61B4"
+msgid "[!] La victime avait-elle des habitudes ici ? Une... demoiselle préférée ?"
+msgstr ""
+
+#. Key:	700B6F74435B4377A86E06AC97940E9B
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_4.Text
+msgctxt ",700B6F74435B4377A86E06AC97940E9B"
+msgid "Masculin"
+msgstr ""
+
+#. Key:	70D8CA5F4F53B116DCB29BAFBC216286
+#. SourceLocation:	/Game/Features/Map/Adress_Widget.Adress_Widget_C:WidgetTree.TextBlock_149.Text
+#: /Game/Features/Map/Adress_Widget.Adress_Widget_C:WidgetTree.TextBlock_149.Text
+msgctxt ",70D8CA5F4F53B116DCB29BAFBC216286"
+msgid "Enlever"
+msgstr "Remove"
+
+#. Key:	710FED104767B7749EEC6DACC4C18D59
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_16.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_16.Text
+msgctxt ",710FED104767B7749EEC6DACC4C18D59"
+msgid "Maj :"
+msgstr "Shift:"
+
+#. Key:	7165ABEE4398DF7B5C9D6B81C1716DC1
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(3).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(3).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",7165ABEE4398DF7B5C9D6B81C1716DC1"
+msgid "À quand remonte votre dernier contact avec Mr Dulys ?"
+msgstr ""
+
+#. Key:	717B97A447218FCAF98C2E97A10B7AF0
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_thermometer.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_thermometer.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",717B97A447218FCAF98C2E97A10B7AF0"
+msgid "Thermomètre"
+msgstr ""
+
+#. Key:	720523F24D09C2300C4EF4A21CE21211
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",720523F24D09C2300C4EF4A21CE21211"
+msgid "\r\nEspace [Maintenir]: aller "
+msgstr "\r\nSpace [hold]: go"
+
+#. Key:	72F55B69481CFA8C3539A7911C58BEC6
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Francois.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Francois.ButtonText
+msgctxt ",72F55B69481CFA8C3539A7911C58BEC6"
+msgid "François DULYS"
+msgstr "François DULYS"
+
+#. Key:	733153644B17FA6AEEF4FA9721B633BB
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",733153644B17FA6AEEF4FA9721B633BB"
+msgid "à la Morgue"
+msgstr "to the morgue"
+
+#. Key:	7348550B4B2190CE2898439F91CFDE45
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_42.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_42.Text
+msgctxt ",7348550B4B2190CE2898439F91CFDE45"
+msgid "(NOTE) : En cas de doute : Utiliser la loupe"
+msgstr ""
+
+#. Key:	7385992D45249996BA8050AE01DFF42C
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_22.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_22.Text
+msgctxt ",7385992D45249996BA8050AE01DFF42C"
+msgid "Liste des modules disponibles :"
+msgstr ""
+
+#. Key:	73CD232E4EECE7006569FABC3F615515
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_body_found.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_body_found.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",73CD232E4EECE7006569FABC3F615515"
+msgid "à 5h"
+msgstr ""
+
+#. Key:	74C420464B6DF47D50EFF8978BFBE6E0
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_3.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_3.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",74C420464B6DF47D50EFF8978BFBE6E0"
+msgid "64, avenue de l'Amandier"
+msgstr "64, Amandier's avenue"
+
+#. Key:	75384671425B30D766E38DA48E131CE7
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_18.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_18.Text
+msgctxt ",75384671425B30D766E38DA48E131CE7"
+msgid "H :"
+msgstr "H:"
+
+#. Key:	7586577D489DC930FE40E091637D42EC
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_death.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_death.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",7586577D489DC930FE40E091637D42EC"
+msgid "Heure de la Mort"
+msgstr "Time of death"
+
+#. Key:	75A7F10049D7914E820193A9049FF550
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt8.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt8.NewTextRenderComponent.Text
+msgctxt ",75A7F10049D7914E820193A9049FF550"
+msgid "Tristesse du Perdant"
+msgstr ""
+
+#. Key:	75F655D34C65DB875DC0289F9E509BDB
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_francois.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_francois.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",75F655D34C65DB875DC0289F9E509BDB"
+msgid "François Dulys"
+msgstr "François Dulys"
+
+#. Key:	762B4C0248C65C8014B127A04764C447
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Main.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sound_Slider_Main.Text
+msgctxt ",762B4C0248C65C8014B127A04764C447"
+msgid "Volume Principal"
+msgstr "Main Volume"
+
+#. Key:	76784A3B453B1D2E2C42B78144C40E7A
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_fatal_injury.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_fatal_injury.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",76784A3B453B1D2E2C42B78144C40E7A"
+msgid "a subie une blessure fatale"
+msgstr ""
+
+#. Key:	76D647CE42322BD449FF7791691DB8EB
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_4.Text
+msgctxt ",76D647CE42322BD449FF7791691DB8EB"
+msgid "(NOTE) : Penser à nettoyer l’aiguille et changer les fioles après chaque enquête.\r\n"
+msgstr ""
+
+#. Key:	7887C3A847D724520079968A7819E7AC
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",7887C3A847D724520079968A7819E7AC"
+msgid "Adresse :"
+msgstr "Adress:"
+
+#. Key:	78B88BDB43E304647AE164B75B723BA1
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Faction
+msgctxt ",78B88BDB43E304647AE164B75B723BA1"
+msgid "Congrégation Royaliste"
+msgstr "Royalist congregation"
+
+#. Key:	790B67DE47D5FBE4540438BFEAE6BFA3
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Leon.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Leon.ButtonText
+msgctxt ",790B67DE47D5FBE4540438BFEAE6BFA3"
+msgid "Inspecteur Leon"
+msgstr "Detective Leon"
+
+#. Key:	794A55884979916A97539883C9FF1232
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ContentTable_Widget.Default__Notebook_ContentTable_Widget_C.Text
+#: /Game/Features/Notebook/Notebook_ContentTable_Widget.Default__Notebook_ContentTable_Widget_C.Text
+msgctxt ",794A55884979916A97539883C9FF1232"
+msgid "Content_Page_Button"
+msgstr "Content_Page_Button"
+
+#. Key:	797FAED94ECDC123153BDFBFCCD97E54
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+msgctxt ",797FAED94ECDC123153BDFBFCCD97E54"
+msgid "Personne"
+msgstr ""
+
+#. Key:	79C0EE964E725C79A64E17AC1370DC40
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_16.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_16.Text
+msgctxt ",79C0EE964E725C79A64E17AC1370DC40"
+msgid "La chambre"
+msgstr ""
+
+#. Key:	79CEF1274258A0801E04FAAD99A38890
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_7.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_7.Text
+msgctxt ",79CEF1274258A0801E04FAAD99A38890"
+msgid "Sound Design"
+msgstr "Sound Design"
+
+#. Key:	7A3CB0114185F40D0C690CA809D615BE
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_12.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_12.Text
+msgctxt ",7A3CB0114185F40D0C690CA809D615BE"
+msgid "Click Droit :"
+msgstr "Right Click:"
+
+#. Key:	7A41E02E475A5E60D44966816236FD5C
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_5.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_5.Text
+msgctxt ",7A41E02E475A5E60D44966816236FD5C"
+msgid "Character Art"
+msgstr "Character Art"
+
+#. Key:	7DF3EAF04302F9CFA026B79411A2ACAE
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_thermometer.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_thermometer.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",7DF3EAF04302F9CFA026B79411A2ACAE"
+msgid "Permet de connaitre la température."
+msgstr ""
+
+#. Key:	7FF76C16481FB258530AD980612CEC8F
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_6.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_6.Text
+msgctxt ",7FF76C16481FB258530AD980612CEC8F"
+msgid "Taille : 1m75"
+msgstr ""
+
+#. Key:	80A2DCC04272FFF935CCB3BF632D3A41
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock.Text
+msgctxt ",80A2DCC04272FFF935CCB3BF632D3A41"
+msgid "Son"
+msgstr "Sound"
+
+#. Key:	80F1E270481A905A8FC53EBDD06A4B1C
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_scanner.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_scanner.Name
+msgctxt ",80F1E270481A905A8FC53EBDD06A4B1C"
+msgid "Scanner"
+msgstr "Scanner"
+
+#. Key:	823CCBB347D8ABE3AF9F7AB4E1C6C2F2
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_10.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_10.Text
+msgctxt ",823CCBB347D8ABE3AF9F7AB4E1C6C2F2"
+msgid "Orientation politique :"
+msgstr ""
+
+#. Key:	82E9F15248A1945C5F480F9ACBEBA8EE
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_1.Text
+msgctxt ",82E9F15248A1945C5F480F9ACBEBA8EE"
+msgid "Game Design"
+msgstr "Game Design"
+
+#. Key:	8334508D4A918348CF52A79DBB222264
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail0_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail0_GEN_VARIABLE.NameDetail
+msgctxt ",8334508D4A918348CF52A79DBB222264"
+msgid "La victime, François Dulys"
+msgstr ""
+
+#. Key:	83DD576E4E4EB56DCF3EB0BEBED92E5B
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_5.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_5.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",83DD576E4E4EB56DCF3EB0BEBED92E5B"
+msgid "correspondant à l’adresse 4, rue des lieutemants Thomazo"
+msgstr ""
+
+#. Key:	84DB30EA438481D0F372FAAB656993E8
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Clue_obj_mov_AllClue.Clue_obj_mov_AllClue_C:Detail1_GEN_VARIABLE.Description
+#: /Game/Features/Analysis/Object_Unique/Clue_obj_mov_AllClue.Clue_obj_mov_AllClue_C:Detail1_GEN_VARIABLE.Description
+msgctxt ",84DB30EA438481D0F372FAAB656993E8"
+msgid "This give all the clues in the game"
+msgstr ""
+
+#. Key:	84EED01C4A3A310276A92A92A126AFE9
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Default__Clue_obj_mov_CaseFile_C.ImportantDetails(1).ImportantDetails
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Default__Clue_obj_mov_CaseFile_C.ImportantDetails(1).ImportantDetails
+msgctxt ",84EED01C4A3A310276A92A92A126AFE9"
+msgid "La victime"
+msgstr ""
+
+#. Key:	852525BC45702207843F96A3FFF00B1B
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_analyser.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_analyser.Name
+msgctxt ",852525BC45702207843F96A3FFF00B1B"
+msgid "Analyser"
+msgstr "Analyser"
+
+#. Key:	858B2CAD498712F9BD3BC5BF6CA313B9
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_3.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_3.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",858B2CAD498712F9BD3BC5BF6CA313B9"
+msgid "correspondant à l’adresse 64, avenue de l'Amandier"
+msgstr ""
+
+#. Key:	868006DF4B4A3A1D686E1BAD9CF147C4
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Birth
+msgctxt ",868006DF4B4A3A1D686E1BAD9CF147C4"
+msgid "4 Mai 1832 à Villac"
+msgstr "May 4th 1832, Villac"
+
+#. Key:	87924CBB4F1E03AACC71E6906252FBE1
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_sonde.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_sonde.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",87924CBB4F1E03AACC71E6906252FBE1"
+msgid "Sonde"
+msgstr ""
+
+#. Key:	87D8229544223100E1524F90C64632B4
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_thermometre.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_thermometre.Name
+msgctxt ",87D8229544223100E1524F90C64632B4"
+msgid "Thermometer"
+msgstr "Thermometer"
+
+#. Key:	889CBDE44290D312E92B449E588711A4
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Bedroom.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Bedroom.ButtonText
+msgctxt ",889CBDE44290D312E92B449E588711A4"
+msgid "La Chambre"
+msgstr ""
+
+#. Key:	898212AF4018CDCD34E1EAB29485C5E1
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Description
+msgctxt ",898212AF4018CDCD34E1EAB29485C5E1"
+msgid "Le Docteur Maurin est quelqu’un de très compétent dans son boulot plus que morbide. Je ne comprends d’ailleurs toujours pas comment il fait pour rester aussi agréable et souriant alors que le pauvre homme a la charge de récupérer les corps et les préparer à l’arrivée d’un inspecteur pour analyse. Et puis il est si… gênant à m’observer faire. Comme s’il était en admiration pour ma “technique” d’analyse. Faut dire qu’il me donne froid dans le dos parfois."
+msgstr ""
+
+#. Key:	8996C43242A6345F25E0769FD5E3D1FF
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_3.Text
+#: /Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_3.Text
+msgctxt ",8996C43242A6345F25E0769FD5E3D1FF"
+msgid "Raymond,"
+msgstr ""
+
+#. Key:	89E75FA34A415364145550A1582BFC79
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",89E75FA34A415364145550A1582BFC79"
+msgid "Recupérer votre carnet"
+msgstr "Pick up Notebook"
+
+#. Key:	8B349D7543CF8EF2B0467EBCEAF3E78A
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_ruler.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_ruler.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",8B349D7543CF8EF2B0467EBCEAF3E78A"
+msgid "Compas"
+msgstr "Compass"
+
+#. Key:	8B69172F44F9120B8B050B9841897131
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_1.Text
+msgctxt ",8B69172F44F9120B8B050B9841897131"
+msgid "22 jan 1889"
+msgstr "22 January 1889"
+
+#. Key:	8C598376456F720DF049399FD390316C
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_alain.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_alain.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",8C598376456F720DF049399FD390316C"
+msgid "Alain Dulys"
+msgstr "Alain Dulys"
+
+#. Key:	8CA545644BC44FF8F85C71BACB1337DF
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock.Text
+msgctxt ",8CA545644BC44FF8F85C71BACB1337DF"
+msgid "Maurice MORRIN, légiste"
+msgstr ""
+
+#. Key:	8CED2BBD45F517DB8AB195885BE6EC55
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_constance.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_constance.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",8CED2BBD45F517DB8AB195885BE6EC55"
+msgid "Constance Dulys"
+msgstr "Constance Dulys"
+
+#. Key:	8DC079184A451D5BAAC36D96072D0430
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_4.Text
+msgctxt ",8DC079184A451D5BAAC36D96072D0430"
+msgid "La prochaine fois on ira boire un coup tous les deux."
+msgstr ""
+
+#. Key:	8F23E28945EB22E310F214B271CD553F
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_15.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_15.Text
+msgctxt ",8F23E28945EB22E310F214B271CD553F"
+msgid "L'Orchidée Noire"
+msgstr "Orchidée Noire"
+
+#. Key:	8F5DA7194EA448BA4FDE95B65D2C3A3D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Deductions.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Deductions.Text
+msgctxt ",8F5DA7194EA448BA4FDE95B65D2C3A3D"
+msgid "Déductions :"
+msgstr "Deductions:"
+
+#. Key:	90880A3148B13FED38ACC1836BE658FF
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Description
+msgctxt ",90880A3148B13FED38ACC1836BE658FF"
+msgid "La définition même d’une femme forte et influente. On dit qu’elle connaît probablement les secrets de tout le monde dans cette ville, si ce n’est dans le pays tout entier. Elle doit forcément avoir des indices à propos de cette affaire."
+msgstr ""
+
+#. Key:	90CFACCD432D5DC677D1D3A4464A6CD4
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail3_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail3_GEN_VARIABLE.NameDetail
+msgctxt ",90CFACCD432D5DC677D1D3A4464A6CD4"
+msgid "La famille de la victime"
+msgstr ""
+
+#. Key:	914AEE1E402C7F8F003D4B909A3C79AB
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_preliminary.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_preliminary.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",914AEE1E402C7F8F003D4B909A3C79AB"
+msgid "a subit une Autopsie Préliminaire dans un lieu"
+msgstr ""
+
+#. Key:	91C0ED0E4993B5EC18A6DAAA41FBF8CD
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tank.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tank.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",91C0ED0E4993B5EC18A6DAAA41FBF8CD"
+msgid "Réservoir"
+msgstr ""
+
+#. Key:	9274AA1943B98EB0922FFB88A0AE3B3D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Gender
+msgctxt ",9274AA1943B98EB0922FFB88A0AE3B3D"
+msgid "Homme"
+msgstr "Male"
+
+#. Key:	92831659425BCA0DB76D36839C2F0DE7
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueList_NoclueWidget.Notebook_ClueList_NoclueWidget_C:WidgetTree.TextBlock_20.Text
+#: /Game/Features/Notebook/Notebook_ClueList_NoclueWidget.Notebook_ClueList_NoclueWidget_C:WidgetTree.TextBlock_20.Text
+msgctxt ",92831659425BCA0DB76D36839C2F0DE7"
+msgid "Aucun indice débloqué"
+msgstr "No clues unlocked"
+
+#. Key:	92922E3C49FABB9575A3EFB0D3063374
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_loupe.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_loupe.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",92922E3C49FABB9575A3EFB0D3063374"
+msgid "Loupe"
+msgstr ""
+
+#. Key:	9348B9364D07A3E585AA4DA8124CFB9B
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Activity
+msgctxt ",9348B9364D07A3E585AA4DA8124CFB9B"
+msgid "Commissaire de Police"
+msgstr "Police commissioner"
+
+#. Key:	936E8A30485420CB845499AF07417507
+#. SourceLocation:	/Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_Tiedup_GEN_VARIABLE.Description
+#: /Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_Tiedup_GEN_VARIABLE.Description
+msgctxt ",936E8A30485420CB845499AF07417507"
+msgid "Des marques de liens. Il a été attaché."
+msgstr "Ropes marks. He was restrained"
+
+#. Key:	949B10E1484B5DB6F00F81956CBD773B
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_Stethoscope.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.OLD_ModuleWidget_Stethoscope.Name
+msgctxt ",949B10E1484B5DB6F00F81956CBD773B"
+msgid "Stethoscope"
+msgstr "Stethoscope"
+
+#. Key:	94FF793648F2510DCDF1C689419561A3
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Size
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Size
+msgctxt ",94FF793648F2510DCDF1C689419561A3"
+msgid "1m80"
+msgstr "5.9 ft"
+
+#. Key:	960F34CE47F807C569B8FD8CACC2E2B1
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Interogation.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Interogation.Text
+msgctxt ",960F34CE47F807C569B8FD8CACC2E2B1"
+msgid "L'interrogation de suspects"
+msgstr ""
+
+#. Key:	9699328C4F0DFD6D5F7AA5BF195F80EE
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_butterfly.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_butterfly.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",9699328C4F0DFD6D5F7AA5BF195F80EE"
+msgid "Lucienne m'a dis de \"chercher le papillon\""
+msgstr ""
+
+#. Key:	96C2CE194D9460BF370F1381A1A8D969
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_5.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_5.Text
+msgctxt ",96C2CE194D9460BF370F1381A1A8D969"
+msgid "Ouvrir / Fermer le carnet"
+msgstr "Open / Close Notebook"
+
+#. Key:	970BA0974EA0A015BA16A2998019B314
+#. SourceLocation:	/Game/Features/Analysis/Details/ClueDetailWidget.Default__ClueDetailWidget_C.Name
+#: /Game/Features/Analysis/Details/ClueDetailWidget.Default__ClueDetailWidget_C.Name
+msgctxt ",970BA0974EA0A015BA16A2998019B314"
+msgid "None"
+msgstr ""
+
+#. Key:	973FC08348BF7D3BF57CB688EB0B14FE
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_180.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_180.Text
+msgctxt ",973FC08348BF7D3BF57CB688EB0B14FE"
+msgid "      - Lors d’une enquête, il ne faut pas se fier à ce que l’on voit… c’est pareil pour un cadavre.\r\nUne analyse sanguine mène parfois à de nouvelles pistes. \r\nIdentifier et retracer la provenance de substances étrangères peut souvent mener à des éléments importants.\r\n\r\nAvec ce que j’ai pu tirer des livres de sciences, des médecins, des légistes… j’ai fabriqué un appareil capable d’extraire du sang d’un cadavre, de l’emmagasiner pour ensuite l’analyser."
+msgstr "      - In a case you don't trust only your eyes.. same with bodies.\r\nA blood analysis sometime gives new leads. \r\nIdentify & trace substances can uncover important elements.\r\n\r\nAfter what i've gathered from sciences & medical books, I've made a device capable of extracting the blood out of a corpse, store it and then analyse it."
+
+#. Key:	97910A16454F0697FE49FEB0F81500BE
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Adress
+msgctxt ",97910A16454F0697FE49FEB0F81500BE"
+msgid "5 rue du Val"
+msgstr "5,  road of the Val"
+
+#. Key:	97C872554E1EAB4AA1FB81A6E15EC949
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_2.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_2.Text
+msgctxt ",97C872554E1EAB4AA1FB81A6E15EC949"
+msgid "DULYS "
+msgstr "DULYS"
+
+#. Key:	97F410984A946B9C353288907DF8DD65
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_abigaelle.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_abigaelle.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",97F410984A946B9C353288907DF8DD65"
+msgid "Abigaelle Cardot"
+msgstr "Abigaelle Cardot"
+
+#. Key:	982C16E145C9C3F2628AF693669024EA
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Gender
+msgctxt ",982C16E145C9C3F2628AF693669024EA"
+msgid "Homme"
+msgstr "Male"
+
+#. Key:	98BCCA3F406E8B5A1547CE9368F33C66
+#. SourceLocation:	/Game/FirstPerson/Unveil_Character.Unveil_Character_C:AddClueToList [Script Bytecode]
+#: /Game/FirstPerson/Unveil_Character.Unveil_Character_C:AddClueToList [Script Bytecode]
+msgctxt ",98BCCA3F406E8B5A1547CE9368F33C66"
+msgid "Nouvel Indice"
+msgstr ""
+
+#. Key:	99D722244708393453C082916D107EC9
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Clue_obj_mov_AllClue.Clue_obj_mov_AllClue_C:Detail1_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/Clue_obj_mov_AllClue.Clue_obj_mov_AllClue_C:Detail1_GEN_VARIABLE.NameDetail
+msgctxt ",99D722244708393453C082916D107EC9"
+msgid "All Clues"
+msgstr "All Clues"
+
+#. Key:	9A74F78B48D9E3EA8CB7ACB0B778B92F
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_blood_on_pillow.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_blood_on_pillow.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",9A74F78B48D9E3EA8CB7ACB0B778B92F"
+msgid "Sang sur l'oreiller"
+msgstr ""
+
+#. Key:	9AEE72ED441BC68E704343AF16B61317
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Faction
+msgctxt ",9AEE72ED441BC68E704343AF16B61317"
+msgid "Congrégation Royaliste"
+msgstr ""
+
+#. Key:	9BC050BC4DD0B846723D7B95B309CEC4
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_36.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_36.Text
+msgctxt ",9BC050BC4DD0B846723D7B95B309CEC4"
+msgid "      Cet outil versatile vous permet de rassembler vos pensées et de trouver une piste à suivre."
+msgstr "      This versatile tool allows you to gather your though and find a new lead."
+
+#. Key:	9BC88F8F4435060425686B892F7BE38B
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_tank.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_tank.Name
+msgctxt ",9BC88F8F4435060425686B892F7BE38B"
+msgid "Fluid tank"
+msgstr "Fluid tank"
+
+#. Key:	9BD34A5D41F496E711B1EC9055F2CFA4
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_pass.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_pass.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",9BD34A5D41F496E711B1EC9055F2CFA4"
+msgid "Carte de membre"
+msgstr "Member card"
+
+#. Key:	9BE64B634D8BACFD92F9C9AE544D961C
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_inhalateur.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_inhalateur.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",9BE64B634D8BACFD92F9C9AE544D961C"
+msgid "Inhalateur"
+msgstr "Inhaler"
+
+#. Key:	9C51F1F3466CE0CE8A3039B81E07ACD4
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Size
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Size
+msgctxt ",9C51F1F3466CE0CE8A3039B81E07ACD4"
+msgid "1m72"
+msgstr "5.6 ft"
+
+#. Key:	9D11AB5243C230959825CFB8B61E8EAB
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_3.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_3.Text
+msgctxt ",9D11AB5243C230959825CFB8B61E8EAB"
+msgid "La longuette"
+msgstr ""
+
+#. Key:	9DE9CD634EBC13289243B1B2E273023C
+#. SourceLocation:	/Game/Features/Map/Adress_Widget.Adress_Widget_C:ExecuteUbergraph_Adress_Widget [Script Bytecode]
+#: /Game/Features/Map/Adress_Widget.Adress_Widget_C:ExecuteUbergraph_Adress_Widget [Script Bytecode]
+msgctxt ",9DE9CD634EBC13289243B1B2E273023C"
+msgid "40 route de la Victoire"
+msgstr "40, Victory road"
+
+#. Key:	9DF7C6EB49DAD2B12CE890BB0E406A97
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Faction
+msgctxt ",9DF7C6EB49DAD2B12CE890BB0E406A97"
+msgid "Ordre Hypocres Medicus de Villac"
+msgstr ""
+
+#. Key:	9E3D5AF04BF90858216419966FF98FAF
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_brothel.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_brothel.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",9E3D5AF04BF90858216419966FF98FAF"
+msgid "correspondant à L'Orchidée Noire"
+msgstr ""
+
+#. Key:	9E92ED4F490FF6475304B09DE0D6EBBD
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_29.Text
+#: /Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock_29.Text
+msgctxt ",9E92ED4F490FF6475304B09DE0D6EBBD"
+msgid "Je ne suis pas là pour l'autopsie aujourd'hui."
+msgstr ""
+
+#. Key:	9ED4071749BCA6CFC1F7FC90D5AB2E91
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_4.Text
+msgctxt ",9ED4071749BCA6CFC1F7FC90D5AB2E91"
+msgid "J'ai contacté la famille de la victime. A savoir Alain Dulys & Constance Dulys.\r\nJ'ai aussi envoyé le corps à la morgue pour eviter une émeute. En ces temps troubles le meurtre d'un royaliste peut vite mettre le feu aux poudres."
+msgstr ""
+
+#. Key:	9ED46ED74524135E327D3EAB4046AADE
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_office.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_office.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",9ED46ED74524135E327D3EAB4046AADE"
+msgid "Bureau de l'inspecteur Forest"
+msgstr "Inspecteur Forest's office"
+
+#. Key:	9F0F8D5A4A5A95585DC59D82E33C0047
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Button_Back.ButtonText
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Button_Back.ButtonText
+msgctxt ",9F0F8D5A4A5A95585DC59D82E33C0047"
+msgid "Retour"
+msgstr "Back"
+
+#. Key:	9F534E8D4B6EFAD603B153B9AFA3C9ED
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Abigaelle.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Abigaelle.ButtonText
+msgctxt ",9F534E8D4B6EFAD603B153B9AFA3C9ED"
+msgid "Abigaelle CARDOT"
+msgstr "Abigaelle CARDOT"
+
+#. Key:	A0807326413D106FF3556EA9AB02D41F
+#. SourceLocation:	/Game/FirstPerson/Unveil_display.Unveil_Display_C:WidgetTree.resolutionText.Text
+#: /Game/FirstPerson/Unveil_display.Unveil_Display_C:WidgetTree.resolutionText.Text
+msgctxt ",A0807326413D106FF3556EA9AB02D41F"
+msgid "La victime, Francois Dulys A été découvert place de l'Union à 5h"
+msgstr ""
+
+#. Key:	A0846504405C0A996A0119854DD217F6
+#. SourceLocation:	/Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.TextBlock_91.Text
+#: /Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.TextBlock_91.Text
+msgctxt ",A0846504405C0A996A0119854DD217F6"
+msgid "PAUSE"
+msgstr "PAUSE"
+
+#. Key:	A08BF9D54E8298A76E294C8E7C946237
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_10.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_10.Text
+msgctxt ",A08BF9D54E8298A76E294C8E7C946237"
+msgid "Remerciements"
+msgstr "Thanks"
+
+#. Key:	A37F7EE14060B6AC730CFF87C77F16C5
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt4.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt4.NewTextRenderComponent.Text
+msgctxt ",A37F7EE14060B6AC730CFF87C77F16C5"
+msgid "Grand Débat"
+msgstr "Debate"
+
+#. Key:	A3A121F24FC00C83EBEA939B62C8A693
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(3).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(3).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",A3A121F24FC00C83EBEA939B62C8A693"
+msgid "Le crime s'est déroulé dans cet ordre-là : Empoisonné, assomé, attaché, torturé et enfin tué."
+msgstr ""
+
+#. Key:	A3C2A9EA4B7FE1E32B303B98D0B5AA81
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_3.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_3.Text
+msgctxt ",A3C2A9EA4B7FE1E32B303B98D0B5AA81"
+msgid "François"
+msgstr "François"
+
+#. Key:	A3CC03D34107A69B497089AA2E7225A0
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_12.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_12.Text
+msgctxt ",A3CC03D34107A69B497089AA2E7225A0"
+msgid "Description :"
+msgstr "Description:"
+
+#. Key:	A45C5BF54EB5579E8535C49CE5C70DD8
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_morgue.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.place_morgue.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",A45C5BF54EB5579E8535C49CE5C70DD8"
+msgid "correspondant à la Morgue"
+msgstr ""
+
+#. Key:	A4C92122497E13A988F2C8AD0ACD6414
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",A4C92122497E13A988F2C8AD0ACD6414"
+msgid "[maintenir] Aller "
+msgstr "[hold]: go"
+
+#. Key:	A6473EFA4D406AFD205FB788F490939D
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_case_file.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_case_file.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",A6473EFA4D406AFD205FB788F490939D"
+msgid "Dossier d'enquête"
+msgstr "Case files"
+
+#. Key:	A767F9E24627A1D77636F4AE02F62ACB
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tank.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tank.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",A767F9E24627A1D77636F4AE02F62ACB"
+msgid "Réservoir pouvant contenir toute sorte de liquides. Principalement du sang..."
+msgstr ""
+
+#. Key:	A8502E5B4F6617240C45FE8377838E9C
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_magnifying_glass.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_magnifying_glass.Name
+msgctxt ",A8502E5B4F6617240C45FE8377838E9C"
+msgid "Magnifying Glass"
+msgstr "Magnifying Glass"
+
+#. Key:	A94665864F864036B427E3BE12747917
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",A94665864F864036B427E3BE12747917"
+msgid "à L'Orchidée Noire "
+msgstr "to the \"Orchidée Noire\""
+
+#. Key:	A96D7148407C74C5DC80D68652523D5C
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_131.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_131.Text
+msgctxt ",A96D7148407C74C5DC80D68652523D5C"
+msgid "Retirer"
+msgstr "Remove"
+
+#. Key:	A97828FD440C4DED4AC4149667A4FCB6
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_tied_up.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_tied_up.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",A97828FD440C4DED4AC4149667A4FCB6"
+msgid "Traces de liens"
+msgstr ""
+
+#. Key:	AAA2969243C93504495C6A8770EEA78F
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_147.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_147.Text
+msgctxt ",AAA2969243C93504495C6A8770EEA78F"
+msgid "Modules"
+msgstr "Modules"
+
+#. Key:	AB6DFD97419B24F3C51826BF2D8BA565
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Display_Question_C_0.Line Question Alternative
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Display_Question_C_0.Line Question Alternative
+msgctxt ",AB6DFD97419B24F3C51826BF2D8BA565"
+msgid "Mademoiselle Cardot, j’aurais quelques questions à vous poser :"
+msgstr ""
+
+#. Key:	AC2BD5A34CA81B4D604F458A30BA4413
+#. SourceLocation:	/Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_2.Text
+#: /Game/Features/Analysis/Window_Inspection.Window_Inspection_C:WidgetTree.TextBlock_hovercontrol_2.Text
+msgctxt ",AC2BD5A34CA81B4D604F458A30BA4413"
+msgid "Clic Droit + bouger : tourner"
+msgstr "Right click & move: turn object"
+
+#. Key:	AC33733E450C3DE7F952018F0F59F873
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_wood_splinters.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_wood_splinters.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",AC33733E450C3DE7F952018F0F59F873"
+msgid "a été assomée puis"
+msgstr ""
+
+#. Key:	AC9FBB074D8731C7138C5AA00285AD03
+#. SourceLocation:	/Game/Features/Map/Adress_Widget.Adress_Widget_C:ExecuteUbergraph_Adress_Widget [Script Bytecode]
+#: /Game/Features/Map/Adress_Widget.Adress_Widget_C:ExecuteUbergraph_Adress_Widget [Script Bytecode]
+msgctxt ",AC9FBB074D8731C7138C5AA00285AD03"
+msgid "6, rue du Pont Neuf"
+msgstr "6, Pont Neuf's street"
+
+#. Key:	ACD6C2AA4E2BC7FD8AE68385F3B9828D
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_13.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_13.Text
+msgctxt ",ACD6C2AA4E2BC7FD8AE68385F3B9828D"
+msgid "Rotations contextuelles"
+msgstr "Context-sensitive rotations"
+
+#. Key:	AD06DD6D4D0621C8947B908F6895C1D3
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_47.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_47.Text
+msgctxt ",AD06DD6D4D0621C8947B908F6895C1D3"
+msgid "Comment découvrir les mystères d'un cadavre en 4 parties"
+msgstr "How to: Uncover the mysteries of a corpse in 4 steps"
+
+#. Key:	AD4557894D07C18A114418BD731AC5BF
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Default__Clue_obj_mov_CaseFile_C.ActionText
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Default__Clue_obj_mov_CaseFile_C.ActionText
+msgctxt ",AD4557894D07C18A114418BD731AC5BF"
+msgid "Espace : tourner les pages"
+msgstr "Space: Turn pages"
+
+#. Key:	AE60FCB04F0F068CD2604D91F09A247F
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_13.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_13.Text
+msgctxt ",AE60FCB04F0F068CD2604D91F09A247F"
+msgid "Annexes :"
+msgstr "Appendix"
+
+#. Key:	AE98ABA048405D31E504B889167B9536
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail1_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail1_GEN_VARIABLE.NameDetail
+msgctxt ",AE98ABA048405D31E504B889167B9536"
+msgid "L'officier qui à reporté le crime"
+msgstr ""
+
+#. Key:	AEA156354C743570E17CD2AFAD6AC564
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_31.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_31.Text
+msgctxt ",AEA156354C743570E17CD2AFAD6AC564"
+msgid "      Le diable se cache dans les détails… ce proverbe m’a donné l’idée de monter ces instruments…\r\n\r\nMes yeux ont parfois besoin d’un coup de pouce…\r\net mes mains peuvent manquer de finesse…\r\n\r\nJe pense avoir ce qu’il faut pour remédier au problème."
+msgstr ""
+
+#. Key:	AF17245C45C081ACA9E5688D437110CE
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Name
+msgctxt ",AF17245C45C081ACA9E5688D437110CE"
+msgid "Lucienne \"Lulu\" BELROSE"
+msgstr ""
+
+#. Key:	AF7164AD409AD5C218B7D4A64BA1CB83
+#. SourceLocation:	/Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_9.Text
+#: /Game/Features/Menu/Credits.Credits_C:WidgetTree.TextBlock_9.Text
+msgctxt ",AF7164AD409AD5C218B7D4A64BA1CB83"
+msgid "Doublage"
+msgstr "Voices"
+
+#. Key:	B03883C0401D4BE6EDFCB18AF54DB256
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_petal.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_petal.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",B03883C0401D4BE6EDFCB18AF54DB256"
+msgid "Pétale"
+msgstr ""
+
+#. Key:	B04A01F242307B07F8E01594219F9D24
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_butterfly.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_butterfly.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",B04A01F242307B07F8E01594219F9D24"
+msgid "Symbole de Papillon"
+msgstr ""
+
+#. Key:	B0DABC7148A82EDEC02A01A846557F42
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(2).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Abi.Dialogue_tree_Abi:Setup_Questions_C_0.questions(2).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",B0DABC7148A82EDEC02A01A846557F42"
+msgid "S’était-il confié à vous à propos d’ennemis ou de problèmes personnels qu’il aurait pu avoir ?"
+msgstr ""
+
+#. Key:	B0DB5428438E0B135CE231B8D710A02A
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_6.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_6.Text
+msgctxt ",B0DB5428438E0B135CE231B8D710A02A"
+msgid "Echap / R : "
+msgstr "Esc / R:"
+
+#. Key:	B1C759E146C051F2A20D5880F16F73A0
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_alain.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_alain.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",B1C759E146C051F2A20D5880F16F73A0"
+msgid "Alain Dulys"
+msgstr "Alain Dulys"
+
+#. Key:	B22AB2DC431480B14B7F50A8FB3FDA9B
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Size
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_6.Size
+msgctxt ",B22AB2DC431480B14B7F50A8FB3FDA9B"
+msgid "1m71"
+msgstr "5.6 ft"
+
+#. Key:	B306913244828273CF44E596961ED9AC
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_8.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_8.Text
+msgctxt ",B306913244828273CF44E596961ED9AC"
+msgid "Groupe / Faction :"
+msgstr "Faction:"
+
+#. Key:	B39D34154DAB21D5AF3A7F9C96BA5289
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Gender
+msgctxt ",B39D34154DAB21D5AF3A7F9C96BA5289"
+msgid "Femme"
+msgstr "Female"
+
+#. Key:	B4AB27A744A15A5FACDF54A3B73BA9BF
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Birth
+msgctxt ",B4AB27A744A15A5FACDF54A3B73BA9BF"
+msgid "08 Octobre 1820 à Villac"
+msgstr "8 October 1820, Villac"
+
+#. Key:	B52598B84E48B3842D4F31A94DD0C5D6
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_8.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_8.Text
+msgctxt ",B52598B84E48B3842D4F31A94DD0C5D6"
+msgid "Scroll Wheel : Zoom / Dézoom"
+msgstr "Scrollwheel: Zoom"
+
+#. Key:	B59BCC4540456F55A9F21096882A3374
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt7.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt7.NewTextRenderComponent.Text
+msgctxt ",B59BCC4540456F55A9F21096882A3374"
+msgid "Partir ou Rester"
+msgstr ""
+
+#. Key:	B6445FAB4FAAF134394CFBAAA2CD5B0A
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_39.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_39.Text
+msgctxt ",B6445FAB4FAAF134394CFBAAA2CD5B0A"
+msgid "      - Utilisez la carte pour épingler les adresses qui vous semblent importantes."
+msgstr "      - Use the map to pin the important locations."
+
+#. Key:	B66805DB49A1F46C73EC20AC9EF5E49F
+#. SourceLocation:	/Game/Features/Menu/Main_Menu.Main_Menu_C:WidgetTree.Menu_Button_play.ButtonText
+#: /Game/Features/Menu/Main_Menu.Main_Menu_C:WidgetTree.Menu_Button_play.ButtonText
+msgctxt ",B66805DB49A1F46C73EC20AC9EF5E49F"
+msgid "Jouer"
+msgstr "Play"
+
+#. Key:	B6B48FA6418A5F7E533A32869A2B81F5
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt2.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt2.NewTextRenderComponent.Text
+msgctxt ",B6B48FA6418A5F7E533A32869A2B81F5"
+msgid "Danse Privée et Services"
+msgstr "Private danse"
+
+#. Key:	B6C628FF4C65630B90B390B765F12D46
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Alain.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Alain.ButtonText
+msgctxt ",B6C628FF4C65630B90B390B765F12D46"
+msgid "Alain DULYS"
+msgstr "Alain DULYS"
+
+#. Key:	B6E74066482388EE33695198C825BCB6
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_34.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_34.Text
+msgctxt ",B6E74066482388EE33695198C825BCB6"
+msgid "      Il est utile pour un inspecteur de savoir comment manipuler les indices.\r\n\r\nEssayez d'observer l'indice dans son entièreté et retenez bien les détails qui semblent importants."
+msgstr ""
+
+#. Key:	B6E8CE434B8846DC7A5BE6998E916136
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Places.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Places.Text
+msgctxt ",B6E8CE434B8846DC7A5BE6998E916136"
+msgid "Lieux & indices"
+msgstr ""
+
+#. Key:	B81B00C742247F392CD6D19525B49EC3
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_crime_scene.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_crime_scene.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",B81B00C742247F392CD6D19525B49EC3"
+msgid "Selon le rapport préliminaire, le corps de François DULYS a été retrouvé sur la statue de la place de l'Union"
+msgstr ""
+
+#. Key:	B862B0D34FC31A5F95707D8A845C8A5F
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_27.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_27.Text
+msgctxt ",B862B0D34FC31A5F95707D8A845C8A5F"
+msgid "(NOTE) : J’ai remplacé l’instrument de mesure frontal par une sonde que j’ai pu relier au thermomètre…\r\n\r\nD’une pierre, deux coups, je pourrais désormais savoir par quoi la victime a été tuée mais aussi quand."
+msgstr ""
+
+#. Key:	B886399C4F92554E5238B8BE31B5D4D4
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_17.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_17.Text
+msgctxt ",B886399C4F92554E5238B8BE31B5D4D4"
+msgid "Courir"
+msgstr "Run"
+
+#. Key:	BADE9FF5450459AD9DE599B63EF7F0AA
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_1.Text
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",BADE9FF5450459AD9DE599B63EF7F0AA"
+msgid "Contredire"
+msgstr "Contradict"
+
+#. Key:	BB8787EC4EFFC51EE0AD329355EF298A
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_petal.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_petal.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",BB8787EC4EFFC51EE0AD329355EF298A"
+msgid "Un pétale orné et luxueux"
+msgstr ""
+
+#. Key:	BBF485BC49A9C6CFEACAFA8F86628A1E
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Morgue.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Morgue.ButtonText
+msgctxt ",BBF485BC49A9C6CFEACAFA8F86628A1E"
+msgid "La Morgue"
+msgstr ""
+
+#. Key:	BC9724614FB659B40AE41EAF26623F02
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Gender
+msgctxt ",BC9724614FB659B40AE41EAF26623F02"
+msgid "Homme"
+msgstr "Male"
+
+#. Key:	BD0AFA9C446EE8A43899B9BAD1BF0059
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt1.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt1.NewTextRenderComponent.Text
+msgctxt ",BD0AFA9C446EE8A43899B9BAD1BF0059"
+msgid "Danse Exotique"
+msgstr "Exotic Danse"
+
+#. Key:	BE8157E249A39C9AA660619D494D34FA
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_25.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_25.Text
+msgctxt ",BE8157E249A39C9AA660619D494D34FA"
+msgid "Comment découvrir les mystères d'un cadavre en 4 parties"
+msgstr "How to: Uncover the mysteries of a corpse in 4 steps"
+
+#. Key:	BFF691B14B79F6E3196773AF174DB502
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_inhalateur.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_inhalateur.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",BFF691B14B79F6E3196773AF174DB502"
+msgid "l'inhalateur de drogue que la victime a utilisé lors de son passage à la maison close. Ses empreintes se trouvent dessus"
+msgstr ""
+
+#. Key:	C06A2BA04D1FEAF675ECD7A45740A315
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.PoliticsText.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.PoliticsText.Text
+msgctxt ",C06A2BA04D1FEAF675ECD7A45740A315"
+msgid "De droite"
+msgstr ""
+
+#. Key:	C0C4B195474902AA6094A891F5F9BCFA
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_5.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_5.Text
+msgctxt ",C0C4B195474902AA6094A891F5F9BCFA"
+msgid "Découverte d'un cadavre sur la place publique."
+msgstr "Body discovered in the public square"
+
+#. Key:	C2263719460596D2413CC5A3AB91982D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Birth
+msgctxt ",C2263719460596D2413CC5A3AB91982D"
+msgid "10 Février 1830 à Villac"
+msgstr "February 10th 1830, Villac"
+
+#. Key:	C2E331FF4E49DC87631C0EB9C53F4FDF
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Adress
+msgctxt ",C2E331FF4E49DC87631C0EB9C53F4FDF"
+msgid "5 rue du Val"
+msgstr "5,  road of the Val"
+
+#. Key:	C3A7F1564F94BFBCCFC7728B94D65FC9
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_handle.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_handle.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",C3A7F1564F94BFBCCFC7728B94D65FC9"
+msgid "Poignée"
+msgstr ""
+
+#. Key:	C4531813445956B29779BCAC447C9A18
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_crime_scene.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_crime_scene.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",C4531813445956B29779BCAC447C9A18"
+msgid "Scène de Crime"
+msgstr ""
+
+#. Key:	C5A811CA496FFE05B4FB849D94EC2F41
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_68.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_68.Text
+msgctxt ",C5A811CA496FFE05B4FB849D94EC2F41"
+msgid "Sommaire"
+msgstr ""
+
+#. Key:	C6B0523D41FCD536F37C23A93CF00268
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_6.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_6.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",C6B0523D41FCD536F37C23A93CF00268"
+msgid "correspondant à l’adresse 3, Square de la Couronne"
+msgstr ""
+
+#. Key:	C718AEA24B4EF3E2EE17DD990D2C06A8
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Birth
+msgctxt ",C718AEA24B4EF3E2EE17DD990D2C06A8"
+msgid "12 Juillet 1850 à Créoule"
+msgstr "July 12th 1850, Créoule"
+
+#. Key:	C858B9BB409EDD18C8CCBFAE49EA9609
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(6).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(6).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",C858B9BB409EDD18C8CCBFAE49EA9609"
+msgid "Surement un système de recharge sophistiqué."
+msgstr ""
+
+#. Key:	C8F6339E4110B016E5CC11BEEB18489F
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_46.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_46.Text
+msgctxt ",C8F6339E4110B016E5CC11BEEB18489F"
+msgid "Résultats :"
+msgstr "Results"
+
+#. Key:	C8F902F84DBEF4D32A2DB48933A3AC44
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Adress
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Adress
+msgctxt ",C8F902F84DBEF4D32A2DB48933A3AC44"
+msgid "2 Rue de l’Espérance"
+msgstr "2 Espérence's street"
+
+#. Key:	C907F6734AF734DE2E3C49A2EC5286F8
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_175.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_175.Text
+msgctxt ",C907F6734AF734DE2E3C49A2EC5286F8"
+msgid "Inspection et analyse d'objet"
+msgstr "Inspection & object analysis"
+
+#. Key:	C9FD32D44EBB2BF782DD0A97338DBA98
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Faction
+msgctxt ",C9FD32D44EBB2BF782DD0A97338DBA98"
+msgid "Force de Police de Villac"
+msgstr "Villac Police Department"
+
+#. Key:	CA6563994CC340F5A3CA8A86C9935175
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Fatal.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.Text_Fatal.Text
+msgctxt ",CA6563994CC340F5A3CA8A86C9935175"
+msgid "Plaie n°2"
+msgstr "Wound n°2"
+
+#. Key:	CA8B74E14E9537D8AE9B45B069CA71D8
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_42.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_42.Text
+msgctxt ",CA8B74E14E9537D8AE9B45B069CA71D8"
+msgid "Université de villac"
+msgstr ""
+
+#. Key:	CA8FC65F46E8B33AF8B99C8ED92F09F9
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_8.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_8.Text
+msgctxt ",CA8FC65F46E8B33AF8B99C8ED92F09F9"
+msgid "      Cette science n’en est encore qu’à ses débuts mais elle est prometteuse…\r\n\r\nJe ne pourrais sans doute pas tester tous les doigts de la planète mais je sais que cela pourra servir de preuve irréfutable bientôt."
+msgstr ""
+
+#. Key:	CB31A63741A4E1130F20FEA39921ECC2
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:ExecuteUbergraph_Notebook_ClueListElement_Widget [Script Bytecode]
+msgctxt ",CB31A63741A4E1130F20FEA39921ECC2"
+msgid "Lieu"
+msgstr ""
+
+#. Key:	CB44117F4DA00BE8A2A490AC803EBE44
+#. SourceLocation:	/Game/Features/Menu/Credit_End.Credit_End_C:WidgetTree.TextBlock_49.Text
+#: /Game/Features/Menu/Credit_End.Credit_End_C:WidgetTree.TextBlock_49.Text
+msgctxt ",CB44117F4DA00BE8A2A490AC803EBE44"
+msgid "Merci à vous !"
+msgstr "Thank You !"
+
+#. Key:	CBBE780A45747029C6A0B0BB9B0E38CE
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_4.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_4.Text
+msgctxt ",CBBE780A45747029C6A0B0BB9B0E38CE"
+msgid "Click gauche : selectionner un emplacement"
+msgstr "Left Click: Select a socket"
+
+#. Key:	CC4C13F843760CD5657FA19C71941658
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_33.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_33.Text
+msgctxt ",CC4C13F843760CD5657FA19C71941658"
+msgid "Liste d'indices"
+msgstr ""
+
+#. Key:	CD0D0F5344DCB36175E8DB8E85968B56
+#. SourceLocation:	/Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_head_GEN_VARIABLE.Description
+#: /Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_head_GEN_VARIABLE.Description
+msgctxt ",CD0D0F5344DCB36175E8DB8E85968B56"
+msgid "Plaie à la tête, particules de bois. Probablement dans le but de l’assommer."
+msgstr "Head wound, wood Splinters. Knocked out with a wooden object"
+
+#. Key:	CF4815FC4D3E4D4082AB0C96B822B7DD
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(3).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(3).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",CF4815FC4D3E4D4082AB0C96B822B7DD"
+msgid "[!] La victime avait-elle eu des ennuis avec d’autres clients ?"
+msgstr ""
+
+#. Key:	D0B268E645525CA6ABABF18AEAE11DCA
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Description
+msgctxt ",D0B268E645525CA6ABABF18AEAE11DCA"
+msgid "Pauvre gars. J’ai beau ne pas supporter ces privilégiés de la haute, m’enfin, personne ne mérite pareille torture. Son assassin devait sacrément lui en vouloir pour le traiter de la sorte. Où bien était-ce autre chose ?"
+msgstr ""
+
+#. Key:	D0D0ECFF47E99E9168AB38A04873504C
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_analyser.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_analyser.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",D0D0ECFF47E99E9168AB38A04873504C"
+msgid "Boitier multifonctions permettant d'obtenir les résultats d'analyse d'empreintes ou de fluides"
+msgstr ""
+
+#. Key:	D0F061104EA4D3D5EC737BA90A673D0E
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Unveil_Game_Instance_C:CheckIfDeductionValid [Script Bytecode]
+#: /Game/FirstPerson/Unveil_Game_Instance.Unveil_Game_Instance_C:CheckIfDeductionValid [Script Bytecode]
+msgctxt ",D0F061104EA4D3D5EC737BA90A673D0E"
+msgid "Nouvelle Déduction"
+msgstr ""
+
+#. Key:	D296F2DE4FF847712E8C4188AEC79854
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Legiste.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Legiste.ButtonText
+msgctxt ",D296F2DE4FF847712E8C4188AEC79854"
+msgid "Legiste"
+msgstr ""
+
+#. Key:	D3394CB24C5BFC810A53F29C6A259326
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_leon.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_leon.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",D3394CB24C5BFC810A53F29C6A259326"
+msgid "Inpsecteur Leon"
+msgstr "Detective Leon"
+
+#. Key:	D388EE3C4FAC69F47DC84384558F64C7
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock.Text
+msgctxt ",D388EE3C4FAC69F47DC84384558F64C7"
+msgid "Enlever"
+msgstr "Remove"
+
+#. Key:	D3CE70474AEFE2670C23D8BD3ACB6135
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_11.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_11.Text
+msgctxt ",D3CE70474AEFE2670C23D8BD3ACB6135"
+msgid "Tourner la caméra"
+msgstr "Move Camera"
+
+#. Key:	D464C7E6431FE1BDE2E29CB240697212
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Analysis/Object_Unique/Note_legiste/Note_Legiste_Widget.Note_Legiste_Widget_C:WidgetTree.TextBlock.Text
+msgctxt ",D464C7E6431FE1BDE2E29CB240697212"
+msgid "Maurice"
+msgstr ""
+
+#. Key:	D99C549442AE91C9185BC5A797E372A4
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_6.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_6.Text
+msgctxt ",D99C549442AE91C9185BC5A797E372A4"
+msgid "l'Enquête :"
+msgstr ""
+
+#. Key:	D9A1397B409153C58BFBC4B49FBE66BE
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Gender
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget.Gender
+msgctxt ",D9A1397B409153C58BFBC4B49FBE66BE"
+msgid "Femme"
+msgstr "Female"
+
+#. Key:	D9C8EE9F4E10CA53208B0DB696EA9AC4
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail4_GEN_VARIABLE.NameDetail
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Clue_obj_mov_CaseFile.Clue_obj_mov_CaseFile_C:Detail4_GEN_VARIABLE.NameDetail
+msgctxt ",D9C8EE9F4E10CA53208B0DB696EA9AC4"
+msgid "L'autopsie n'a pas été finie..."
+msgstr ""
+
+#. Key:	DA98557946A3729D616528B207A03B62
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_17.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_17.Text
+msgctxt ",DA98557946A3729D616528B207A03B62"
+msgid "Nom et Prénom :"
+msgstr ""
+
+#. Key:	DA9D438B4C2C79E3B413DCA41F238E0A
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_death.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_time_death.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",DA9D438B4C2C79E3B413DCA41F238E0A"
+msgid "On peut déduire de l'autopsie que la victime est morte aux alentours de 23h30 hier"
+msgstr ""
+
+#. Key:	DADBD758424D8A8D3F47219E4A3B007A
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Map.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Map.Text
+msgctxt ",DADBD758424D8A8D3F47219E4A3B007A"
+msgid "La carte de Villac"
+msgstr ""
+
+#. Key:	DB7B6A6B480B8C0C3AF8E493D8CD0DBC
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_9.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_9.Text
+msgctxt ",DB7B6A6B480B8C0C3AF8E493D8CD0DBC"
+msgid "Partie 1: Analyse sanguine"
+msgstr ""
+
+#. Key:	DBB0115C4B7DBCC898266AB1435E9E70
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Name
+msgctxt ",DBB0115C4B7DBCC898266AB1435E9E70"
+msgid "François DULYS"
+msgstr "François DULYS"
+
+#. Key:	DC63E1CD445B2EEA72606591A37C92B7
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_37.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_37.Text
+msgctxt ",DC63E1CD445B2EEA72606591A37C92B7"
+msgid "      La carte de villac.\r\n\r\n      Elle regroupe les principaux quartiers de la ville ainsi que le palais royal."
+msgstr ""
+
+#. Key:	DC70917B45A259269954D0917E231C9C
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_trocart.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_trocart.Name
+msgctxt ",DC70917B45A259269954D0917E231C9C"
+msgid "Trocart"
+msgstr "Needle"
+
+#. Key:	DCE6002748A1989E89C199BEF9EC5F8D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_14.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_14.Text
+msgctxt ",DCE6002748A1989E89C199BEF9EC5F8D"
+msgid "La Morgue de l'Université"
+msgstr ""
+
+#. Key:	DE314C4B482CAC979B3AC5B5F3970755
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_1.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_1.Text
+msgctxt ",DE314C4B482CAC979B3AC5B5F3970755"
+msgid "Click Gauche :"
+msgstr "Left Click:"
+
+#. Key:	DE376671458511E5F4158E8C53499E10
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_4.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_4.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",DE376671458511E5F4158E8C53499E10"
+msgid "55, rue Marguerite"
+msgstr "55, Marguerite's street"
+
+#. Key:	DE5AC63F4B1E2669F1B247BD407E0944
+#. SourceLocation:	/Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(0).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+#: /Game/Features/NPCs/Dialogue_Trees/Dialogue_tree_Lulu.Dialogue_tree_Lulu:Setup_Questions_C_0.questions(0).questions.Text_5_AEB6B9384402361DCAE4138868C84AA0
+msgctxt ",DE5AC63F4B1E2669F1B247BD407E0944"
+msgid "Faisait-il parti de vos clients ?"
+msgstr ""
+
+#. Key:	DF0004AA4B3D7B49075C369F5395C0BF
+#. SourceLocation:	/Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_hand_GEN_VARIABLE.Description
+#: /Game/Features/Autopsy/AutopsySetup.AutopsySetup_C:AutopsyDetail_hand_GEN_VARIABLE.Description
+msgctxt ",DF0004AA4B3D7B49075C369F5395C0BF"
+msgid "Les empreintes de ses doigts"
+msgstr "His fingerprints"
+
+#. Key:	DF280DD7484E5D2C6331A78384818A7E
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Faction
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Faction
+msgctxt ",DF280DD7484E5D2C6331A78384818A7E"
+msgid "Force de police de Villac"
+msgstr "Villac Police Department"
+
+#. Key:	DFF029A143C2E0BB5D19179E5F3DC96D
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_4.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_4.Text
+msgctxt ",DFF029A143C2E0BB5D19179E5F3DC96D"
+msgid "Se déplacer"
+msgstr "Move"
+
+#. Key:	E13BEB30473E4977B0F554AB34744F39
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_1.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_1.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",E13BEB30473E4977B0F554AB34744F39"
+msgid "correspondant à l’adresse 14, rue Joseph Vernet "
+msgstr ""
+
+#. Key:	E19DADD9466E83B694FDBFAB27BCBF68
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_9.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_9.Text
+msgctxt ",E19DADD9466E83B694FDBFAB27BCBF68"
+msgid "Action contextuelle"
+msgstr "Context-sensitive action"
+
+#. Key:	E24A5AA1451923242D4AF0BBC0AEF5D0
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_glass.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_glass.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",E24A5AA1451923242D4AF0BBC0AEF5D0"
+msgid "Verres"
+msgstr ""
+
+#. Key:	E3450A744742046791911A813A26FFAA
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_41.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_41.Text
+msgctxt ",E3450A744742046791911A813A26FFAA"
+msgid "      - Epinglez des indices depuis la liste du carnet ou depuis la Carte et placez les dans votre bureau.\r\n      - Connectez des liens entre eux lorsqu'ils semblent avoir un rapport.\r\n      - Si vous connectez les bons liens ensemble vous avancerez dans l'enquête."
+msgstr "      - Pin the clues from the list in the notebook/map & place them in the office.\r\n      - Connect the clues when they seem to have a connection.\r\n      - If you happen to connect meaningfull clues together you will progress in the investigation."
+
+#. Key:	E3CEAE214299CE3FEE44E9AE93431BE6
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Name
+msgctxt ",E3CEAE214299CE3FEE44E9AE93431BE6"
+msgid "Abigaelle \"Rose\" CARDOT"
+msgstr "Abigaelle \"Rose\" CARDOT"
+
+#. Key:	E404E7EE45C30F4BA3BA90AA78842F24
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock.Text
+msgctxt ",E404E7EE45C30F4BA3BA90AA78842F24"
+msgid "Naissance :"
+msgstr ""
+
+#. Key:	E434FF434DC66F264C16B2BD40CEA31C
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_23.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_23.Text
+msgctxt ",E434FF434DC66F264C16B2BD40CEA31C"
+msgid "(NOTE) : pas besoin de réinventer la roue, le mieux c’est le pli du bras, les veines y sont bien souvent plus visibles. "
+msgstr ""
+
+#. Key:	E4376E154E5E2CFC3F03BDAD94C678F0
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sensitivity_Slider.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.Sensitivity_Slider.Text
+msgctxt ",E4376E154E5E2CFC3F03BDAD94C678F0"
+msgid "Sensibilité (souris)"
+msgstr "Mouse Sensitivity"
+
+#. Key:	E4754999450C29298A99CA9BEFC390FC
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_case_file.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_case_file.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",E4754999450C29298A99CA9BEFC390FC"
+msgid "j'y trouverais toutes les informations nécessaires à l'enquête"
+msgstr ""
+
+#. Key:	E568BB0747D412CB582155A041EE0524
+#. SourceLocation:	/Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.Menu_Button_opt.ButtonText
+#: /Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.Menu_Button_opt.ButtonText
+msgctxt ",E568BB0747D412CB582155A041EE0524"
+msgid "Options"
+msgstr "Settings"
+
+#. Key:	E59CC5F6432DBAF2AE9F7BADCB685BA3
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_crime_scene.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_crime_scene.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",E59CC5F6432DBAF2AE9F7BADCB685BA3"
+msgid "a été découverte place de l'Union"
+msgstr ""
+
+#. Key:	E73254714553EC14BF151189A0063EA7
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_drug_blood.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_drug_blood.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",E73254714553EC14BF151189A0063EA7"
+msgid "a été empoisonnée puis"
+msgstr ""
+
+#. Key:	E75567BC4726FF7C40CC039F258393F7
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_legiste.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_legiste.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",E75567BC4726FF7C40CC039F258393F7"
+msgid "Maurice Maurin"
+msgstr ""
+
+#. Key:	E809A719444F1B6516764D86F8004712
+#. SourceLocation:	/Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_2.Text
+#: /Game/Features/Notebook/Notebook_CharaDescription_Widget.Notebook_CharaDescription_Widget_C:WidgetTree.TextBlock_2.Text
+msgctxt ",E809A719444F1B6516764D86F8004712"
+msgid "Taille :"
+msgstr ""
+
+#. Key:	E8D4CB204A989567BEE3CBAD9F26965D
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_hovercontrol_1.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_hovercontrol_1.Text
+msgctxt ",E8D4CB204A989567BEE3CBAD9F26965D"
+msgid "Q & D : Tourner les pages"
+msgstr ""
+
+#. Key:	E8E9BF5145CE9D8CDE26E588F647DEFE
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_constance.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_constance.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",E8E9BF5145CE9D8CDE26E588F647DEFE"
+msgid "Constance Dulys"
+msgstr "Constance Dulys"
+
+#. Key:	E916DDEC4ED6104A3A3691A86C557ED5
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(4).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(4).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",E916DDEC4ED6104A3A3691A86C557ED5"
+msgid "François Dulys est mort aux alentours de 23h."
+msgstr "François Dulys died around 11pm."
+
+#. Key:	E929C42C4D55676386343295DDEC12F9
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_30.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_30.Text
+msgctxt ",E929C42C4D55676386343295DDEC12F9"
+msgid "Partie 2 : Particules et résidus"
+msgstr ""
+
+#. Key:	E92AFCCF406425D1FCDAC8A75D6C2257
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock.Text
+msgctxt ",E92AFCCF406425D1FCDAC8A75D6C2257"
+msgid "Catégorie"
+msgstr "Category"
+
+#. Key:	E944BC83408132A8BDB9DC825EBBBEC5
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_26.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_26.Text
+msgctxt ",E944BC83408132A8BDB9DC825EBBBEC5"
+msgid "Les blessures peuvent révéler de précieuses informations sur le ou la coupable…\r\n\r\nConnaitre les dimensions des blessures est essentiel : profondeur, largeur, aspect… tous ces détails permettent d’éliminer un maximum de théories incorrectes."
+msgstr ""
+
+#. Key:	E99831C8488E1EB754CDBF892D330B8F
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Activity
+msgctxt ",E99831C8488E1EB754CDBF892D330B8F"
+msgid "Fille de l'Orchidée Noire"
+msgstr "Orchidée Noire girl"
+
+#. Key:	E9A65BB142D422AD44C296A23DC85DD8
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_5.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_5.Text
+msgctxt ",E9A65BB142D422AD44C296A23DC85DD8"
+msgid "Click droit + bouger : tourner l'outil"
+msgstr "Right click + move: Rotate tool"
+
+#. Key:	E9E8EB6D4728C07E893B7EB509054739
+#. SourceLocation:	/Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt3.NewTextRenderComponent.Text
+#: /Game/Levels/FInal_Levels/Level_Maison_Close/LEVEL_Maison_Close.LEVEL_Maison_Close:PersistentLevel.txt3.NewTextRenderComponent.Text
+msgctxt ",E9E8EB6D4728C07E893B7EB509054739"
+msgid "Discussion Politique"
+msgstr "Politics"
+
+#. Key:	EA0420FD41A67551CDF2E181E0B45F4C
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Size
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_1.Size
+msgctxt ",EA0420FD41A67551CDF2E181E0B45F4C"
+msgid "1m70"
+msgstr "5.5 ft"
+
+#. Key:	EA7F88E543205BFA5EE251859BCAA468
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_5.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_5.Text
+msgctxt ",EA7F88E543205BFA5EE251859BCAA468"
+msgid "Prélude : Un outil bien entretenu"
+msgstr ""
+
+#. Key:	EA9EB50F4DCF1D913E3E5AB21F1890E8
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Birth
+msgctxt ",EA9EB50F4DCF1D913E3E5AB21F1890E8"
+msgid "6 Août 1842 à Villac"
+msgstr "August 6th 1842, Villac"
+
+#. Key:	EBD887A7460471D159534FA4EFD3F944
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Description
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Description
+msgctxt ",EBD887A7460471D159534FA4EFD3F944"
+msgid "Une demoiselle tout aussi séduisante qu’intrigante. Difficile avec elle de savoir si elle est d’une douce naïveté concernant sa patronne ou si elle me tourne habilement en bourrique. Il n’empêche que si “Dame Lulu” en a fait son bras droit, elle doit bien savoir quelque chose d’utile."
+msgstr ""
+
+#. Key:	EC683F144E0661522CFB55973F03DB49
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_5.Activity
+msgctxt ",EC683F144E0661522CFB55973F03DB49"
+msgid "Noble Héritière"
+msgstr ""
+
+#. Key:	ECE8125347C75E41EFE4A68DD777A8F2
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_drug_blood.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_drug_blood.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",ECE8125347C75E41EFE4A68DD777A8F2"
+msgid "Poison non létale (orchidée)"
+msgstr ""
+
+#. Key:	ED7E411D4BCA2B5589DE56ABB6945A80
+#. SourceLocation:	/Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(5).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+#: /Game/FirstPerson/Unveil_Game_Instance.Default__Unveil_Game_Instance_C.Deductions(5).Deductions.Deduction_Phrase_17_7C5228D24588B413702E5E81657BB672
+msgctxt ",ED7E411D4BCA2B5589DE56ABB6945A80"
+msgid "François Dulys s’est rendu à l’Orchidée Noire peu de temps avant sa mort. (Vous pouvez maintenant accéder à la Maison Close depuis la note placée dans le bureau)"
+msgstr "François Dulys was in the Orchidée Noire a few time before his death. (you can now access the Orchidée Noire from the clue in the office)"
+
+#. Key:	EDCB3B6649082B63E2829EAD9AD26B95
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_19.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_19.Text
+msgctxt ",EDCB3B6649082B63E2829EAD9AD26B95"
+msgid "Afficher / Cacher l'interface"
+msgstr "Show / Hide HUD"
+
+#. Key:	EE6F74754344FEF176F5A08BEAE2B8B9
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tetine.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_tetine.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",EE6F74754344FEF176F5A08BEAE2B8B9"
+msgid "Tétine"
+msgstr ""
+
+#. Key:	EFAA17F4441A9755E63614A447344C26
+#. SourceLocation:	/Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_49.Text
+#: /Game/Features/Notebook/Notebook_ClueListElement_Widget.Notebook_ClueListElement_Widget_C:WidgetTree.TextBlock_49.Text
+msgctxt ",EFAA17F4441A9755E63614A447344C26"
+msgid "ClueName"
+msgstr "ClueName"
+
+#. Key:	EFF154624746FA2DABB06891D78F3E92
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_38.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_38.Text
+msgctxt ",EFF154624746FA2DABB06891D78F3E92"
+msgid "      Un bon enquêteur se doit d'avoir une rhétorique aiguisée. \r\n\r\n      Il peut aussi être utile lors d'un conversation de pouvoir sortir un atout de sa poche."
+msgstr ""
+
+#. Key:	F0468A5B4C275E80A9B09993C8DB5EFC
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_tetine.Name
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.ModuleWidget_tetine.Name
+msgctxt ",F0468A5B4C275E80A9B09993C8DB5EFC"
+msgid "Tetine"
+msgstr "Nozzle"
+
+#. Key:	F11EE903405BF9EE5ECB188A68E5019B
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_trocart.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.module_trocart.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",F11EE903405BF9EE5ECB188A68E5019B"
+msgid "Une sorte de grosse aiguille. Permet de récolter toute sortes de liquides, principalement du sang... "
+msgstr ""
+
+#. Key:	F24B29E74E44A13D3BCFA7A1C1D68196
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_3.Activity
+msgctxt ",F24B29E74E44A13D3BCFA7A1C1D68196"
+msgid "Politicien"
+msgstr ""
+
+#. Key:	F2CDCFAE42D6565C2023288B93C346A7
+#. SourceLocation:	/Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_3.Text
+#: /Game/Features/Menu/Menu_options.Menu_Options_C:WidgetTree.TextBlock_hovercontrol_3.Text
+msgctxt ",F2CDCFAE42D6565C2023288B93C346A7"
+msgid "ZQSD :"
+msgstr "WASD:"
+
+#. Key:	F2E7BD9D4CF41C6FD3D06B8D5FCBCFD6
+#. SourceLocation:	/Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.Menu_Button_Resume.ButtonText
+#: /Game/Features/Menu/In_Game_Menu.In_Game_Menu_C:WidgetTree.Menu_Button_Resume.ButtonText
+msgctxt ",F2E7BD9D4CF41C6FD3D06B8D5FCBCFD6"
+msgid "Reprendre"
+msgstr "Resume"
+
+#. Key:	F3279F604ECDB6A5367417BDE7053368
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Lulu.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Lulu.ButtonText
+msgctxt ",F3279F604ECDB6A5367417BDE7053368"
+msgid "Lucienne BELROSE"
+msgstr ""
+
+#. Key:	F32DBA33485948996B12988E43EBB1A2
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Commissaire.ButtonText
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_TabButton_Commissaire.ButtonText
+msgctxt ",F32DBA33485948996B12988E43EBB1A2"
+msgid "Commissaire"
+msgstr "Commissioner"
+
+#. Key:	F470404C40A99F7CEF09328D95CA3181
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_6.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.adress_random_6.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",F470404C40A99F7CEF09328D95CA3181"
+msgid "3, square de la Couronne"
+msgstr "3, Crown Square"
+
+#. Key:	F5579449420ABA2B5ABD728BE03A0CC5
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_3.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_1.Case_Page_1_C:WidgetTree.TextBlock_3.Text
+msgctxt ",F5579449420ABA2B5ABD728BE03A0CC5"
+msgid "La victime a été retrouvée à 5h au milieu de la place de l'Union. \r\nLa victime a été identifiée comme étant le sénateur royaliste François Dulys."
+msgstr ""
+
+#. Key:	F55AC4E34A398FBF4C2ED28C643283C6
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_19.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.TextBlock_19.Text
+msgctxt ",F55AC4E34A398FBF4C2ED28C643283C6"
+msgid "Détecter un mensonge"
+msgstr "Detect lies"
+
+#. Key:	F593A83A4FA0493A278E758E33BDB0A5
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_10.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_10.Text
+msgctxt ",F593A83A4FA0493A278E758E33BDB0A5"
+msgid "Espace : Tourner autour"
+msgstr "Space: Rotate around"
+
+#. Key:	F62AEEAF4C828B1372A0F588380048C7
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_2.Name
+msgctxt ",F62AEEAF4C828B1372A0F588380048C7"
+msgid "Nathan DELORBE"
+msgstr ""
+
+#. Key:	F6E0F9EF46963A2F743475910700E56B
+#. SourceLocation:	/Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_7.Text
+#: /Game/Features/Autopsy/Window_Autopsy.Window_Autopsy_C:WidgetTree.TextBlock_hovercontrol_7.Text
+msgctxt ",F6E0F9EF46963A2F743475910700E56B"
+msgid "Echap / R : Quitter"
+msgstr "Esc / R: Quit"
+
+#. Key:	F7B9F02144080358A2D3E788DB4A7605
+#. SourceLocation:	/Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_75.Text
+#: /Game/Features/Analysis/Object_Unique/CaseFile/Case_Page_3.Case_Page_3_C:WidgetTree.TextBlock_75.Text
+msgctxt ",F7B9F02144080358A2D3E788DB4A7605"
+msgid "Adresse : 5 rue du Val"
+msgstr "Adress: 5,  road of the Val"
+
+#. Key:	F7DEC9F049384FFEFD7DDA80E4F5232F
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",F7DEC9F049384FFEFD7DDA80E4F5232F"
+msgid "dans la chambre"
+msgstr "in the bedroom"
+
+#. Key:	F8ADD6B44282CB450063C7A9D264B58B
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_bruises_wound.Description_16_69AF229B47680FC59846B599E354443D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.note_bruises_wound.Description_16_69AF229B47680FC59846B599E354443D
+msgctxt ",F8ADD6B44282CB450063C7A9D264B58B"
+msgid "Pas besoin d'analyses scientifiques pour comprendre que les marques sur la victime sont le résultats d'un passage à tabac… l'agresseur devait chercher des informations"
+msgstr ""
+
+#. Key:	F91BDA574071470685FBF283699094F4
+#. SourceLocation:	/Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_4.Text
+#: /Game/Features/Map/Widget_Map.Widget_Map_C:WidgetTree.TextBlock_4.Text
+msgctxt ",F91BDA574071470685FBF283699094F4"
+msgid "Place de L'Union (inaccessible)"
+msgstr ""
+
+#. Key:	FA14023B48EDE030E46565A653FF9774
+#. SourceLocation:	/Game/Features/ClueBoard/3D_Clue_Widget.3D_Clue_Widget_C:WidgetTree.TextBlock_62.Text
+#: /Game/Features/ClueBoard/3D_Clue_Widget.3D_Clue_Widget_C:WidgetTree.TextBlock_62.Text
+msgctxt ",FA14023B48EDE030E46565A653FF9774"
+msgid "...a subit une Autopsie Préliminaire dans un lieu..."
+msgstr ""
+
+#. Key:	FA1AF82A40A89F9797F071A9A94398B2
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_hat.Name_22_38281FF842A304642A2D369BC4D6C94A
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.obj_hat.Name_22_38281FF842A304642A2D369BC4D6C94A
+msgctxt ",FA1AF82A40A89F9797F071A9A94398B2"
+msgid "Chapeau"
+msgstr "Hat"
+
+#. Key:	FA8447664C1E45965819E09022AF93D9
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Name
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Name
+msgctxt ",FA8447664C1E45965819E09022AF93D9"
+msgid "Maurice MAURIN"
+msgstr ""
+
+#. Key:	FBF1E62542C3B7E083DD1688C6CF432F
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",FBF1E62542C3B7E083DD1688C6CF432F"
+msgid "Click Gauche : Prendre\r\nClick Droit [maintenir] : Créer un lien"
+msgstr "Left click: take\r\nRight click [hold]: Create a link"
+
+#. Key:	FC1696714782C1BEF740F39AC4EAA74E
+#. SourceLocation:	/Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+#: /Game/FirstPerson/Unveil_PlayerController.Unveil_PlayerController_C:ChangeHoverInfo [Script Bytecode]
+msgctxt ",FC1696714782C1BEF740F39AC4EAA74E"
+msgid "Relacher : Attacher le lien"
+msgstr "Release: Attach link"
+
+#. Key:	FE5E2B954FEEA53B25454B9754064FFC
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Birth
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_7.Birth
+msgctxt ",FE5E2B954FEEA53B25454B9754064FFC"
+msgid "6 Juin 1863 à Villac"
+msgstr "June 6th 1863, Villac"
+
+#. Key:	FE6670B14059B383143866B58133DABC
+#. SourceLocation:	/Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_leon.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+#: /Game/Features/ClueBoard/Clue_DATABASE/Clue_DATABASE.Clue_DATABASE.char_leon.Text_Phrase_41_FB31C9CF4425A7314D3FDEA2CEFFF60D
+msgctxt ",FE6670B14059B383143866B58133DABC"
+msgid "l'inspecteur Leon"
+msgstr ""
+
+#. Key:	FEE37ECD480A4AED76D4F2855BB57144
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Autopsy.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Autopsy.Text
+msgctxt ",FEE37ECD480A4AED76D4F2855BB57144"
+msgid "Comment découvrir les mystères d'un cadavre en 4 parties"
+msgstr "How to: Uncover the mysteries of a corpse in 4 steps"
+
+#. Key:	FFE416D6408C66C37DDDEAA60C950536
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Links.Text
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Button_Links.Text
+msgctxt ",FFE416D6408C66C37DDDEAA60C950536"
+msgid "Les liens et tableau d'indices"
+msgstr ""
+
+#. Key:	FFFC71F944D129B5FBE64085D2CA3F98
+#. SourceLocation:	/Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Activity
+#: /Game/Features/Notebook/Notebook.Notebook_C:WidgetTree.Notebook_CharaDescription_Widget_4.Activity
+msgctxt ",FFFC71F944D129B5FBE64085D2CA3F98"
+msgid "Médecin Légiste"
+msgstr ""
+
